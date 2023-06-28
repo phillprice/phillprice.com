@@ -1,0 +1,21 @@
+<!-- Work -->
+<section id="work" class="section">
+    <div class="container">
+        {{ range first 1 (where (where .Site.Pages "Section" "photo") ".Title" "==" "Photos" ) }}
+            {{ partial "home/section-title.html" (dict "Title" .Title "SubTitle" .Params.Summary)  }}
+        {{ end }}
+    </div>
+    <div class="container">
+        <div class="portfolio-content lightbox-gallery">
+
+
+            {{ range last 9 ((where (where .Site.Pages "Section" "photo") ".Title" "!=" "Photos").ByParam "faves")}}
+                {{ .Render "summary" }}
+            {{ end }}
+        </div> <!-- portfolio-content -->
+        <a style="float:right; margin-right: 15px;" class="m-btn m-btn-theme" href="/photo">
+            More >>
+        </a>
+    </div>
+</section>
+<!-- End work -->

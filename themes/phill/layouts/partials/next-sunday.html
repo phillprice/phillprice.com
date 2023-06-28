@@ -1,0 +1,8 @@
+{{ $d := time.AsTime . }}
+{{ $nextSunday := 0 }}
+{{ with int $d.Weekday }}
+  {{ $nextSunday = $d.AddDate 0 0 (int (sub 1 $d.Weekday add 6)) }}
+{{ else }}
+  {{ $nextSunday = $d.AddDate 0 0 0 }}
+{{ end }}
+{{ return ($nextSunday | time.Format "2006-01-02") }}

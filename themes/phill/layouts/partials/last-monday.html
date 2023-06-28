@@ -1,0 +1,8 @@
+{{ $d := time.AsTime . }}
+{{ $lastMonday := 0 }}
+{{ with int $d.Weekday }}
+  {{ $lastMonday = $d.AddDate 0 0 (int (sub 1 $d.Weekday)) }}
+{{ else }}
+  {{ $lastMonday = $d.AddDate 0 0 -6 }}
+{{ end }}
+{{ return ($lastMonday | time.Format "2006-01-02") }}

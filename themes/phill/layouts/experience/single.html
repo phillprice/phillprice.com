@@ -1,0 +1,79 @@
+
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+
+        <section class="section single short">
+            <div class="container">
+                <div class="row sm-m-25px-b m-35px-b">
+                    {{- partial "breadcrumbs.html" . -}}
+                    <div class="col-md-9">
+                        <div class="section-title">
+                            <aside class="instapaper_ignoref b helvetica tracked">
+                                {{ if .Params.StartDate }}
+                                    <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Params.StartDate| time.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                                        {{ .Params.StartDate | time.Format (default "January 2006" .Site.Params.date_format) }}
+                                    </time> -
+                                    {{ if eq .Params.Current  "true" }}
+                                        Now
+                                    {{else}}
+                                        <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date | time.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                                            {{ .Date | time.Format (default "January 2006" .Site.Params.date_format) }}
+                                        </time>
+                                    {{end}}
+                                {{end}}
+                            </aside>
+                            <h3 class="dark-color text-uppercase">{{.Params.JobTitle }}, {{ .Title }}</h3>
+                        </div>
+                        <p>{{ .Params.Summary }}</p>
+                            {{ .Content }}
+
+
+                            <div class="btn-bar" style="margin-top:10px;">
+                                {{- $pages := ($.Site.GetPage "section" .Section).Pages.ByParam "EndDate" }}
+                                {{- $.Scratch.Set "curPosition" 0 }}
+                                {{- $.Scratch.Set "index" 0 }}
+                                {{- range $pages }}
+                                {{- if eq $ . }}
+                                    {{- $.Scratch.Set "curPosition" ($.Scratch.Get "index") }}
+                                {{- end }}
+                                {{- $.Scratch.Add "index" 1 }}
+                                {{- end }}
+                                {{- $next := (index $pages (add ($.Scratch.Get "curPosition") 1)) }}
+                                {{- $prev := (index $pages (sub ($.Scratch.Get "curPosition") 1)) }}
+
+                                {{- with $next }}
+                                <a class="m-btn m-btn-theme" href="{{ .Permalink }}">←  {{ .Title }}</a>
+                                {{- end }}
+
+                                {{- with $prev }}
+                                <a class="m-btn m-btn-theme" href="{{ .Permalink }}"> {{ .Title }} →</a>
+                                {{- end }}
+                            </div>
+                    </div>
+                    
+                    <div class="col-md-3 icon">
+
+                        {{ with .Resources.ByType "image" }}
+                            {{ range first 1 . }}
+                                <img src="{{ .Permalink }}" class="exp-icon" style="fill: red;" title="" alt="">
+                            {{ end }}
+                        {{ end }}
+                        
+
+                        {{ if .Params.showcase }}Showcase:
+                            {{ range .Params.showcase }}
+                                {{ if .youtube   }}
+                                <iframe  src="https://www.youtube-nocookie.com/embed/{{.youtube}}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                {{ else }}
+                                    {{.title}}
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        
+{{ end }}

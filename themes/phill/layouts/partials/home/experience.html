@@ -1,0 +1,21 @@
+<!-- resume -->
+<section id="experience" class="section gray-bg">
+    <div class="container">
+        {{ range first 1 (where (where .Site.Pages "Section" "experience") ".Title" "==" "Experience" ) }}
+            {{ partial "home/section-title.html" (dict "Title" .Title "SubTitle" .Params.Summary)  }}
+        {{ end }}
+        <div class="row">
+            <!-- feature box -->
+            {{- $sortedPages := first 3 ((where (where .Site.Pages "Section" "experience") ".Title" "!=" "Experience" ).ByParam "EndDate") }}
+            {{ $paginator := .Paginate $sortedPages }}
+            {{- range  $index, $page := $paginator.Pages }}
+                {{ .Render "summary" }}
+            <!-- / -->
+            {{ end }}
+        </div>
+        <a style="float:right;" class="m-btn m-btn-theme" href="/experience">
+            Previously >>
+        </a>
+    </div>
+</section>
+<!-- End resume -->

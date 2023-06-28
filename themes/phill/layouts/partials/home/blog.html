@@ -1,0 +1,17 @@
+<!-- Blog -->
+<section id="blog" class="section lightgray-bg">
+    <div class="container">
+        {{ range first 1 (where (where .Site.Pages "Section" "post") ".Title" "==" "Blog" ) }}
+            {{ partial "home/section-title.html" (dict "Title" .Title "SubTitle" .Params.Summary)  }}
+        {{ end }}
+        <div class="row">
+            {{ range first 3 (where (where .Site.Pages "Section" "post") ".Title" "!=" "Blog" )}}
+                {{ .Render "summary" }}
+            {{ end }} <!-- col -->
+        </div>
+        <a style="float:right; margin-right: 15px;" class="m-btn m-btn-theme" href="/post">
+            More >>
+        </a>
+    </div>
+</section>
+<!-- End Blog -->

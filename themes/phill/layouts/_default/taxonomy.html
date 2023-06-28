@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="main-left">
+    <section class="section work" id="work">
+        <div class="container">
+            <div class="row sm-m-25px-b m-35px-b">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h3 class="dark-color text-uppercase">{{ i18n "taxonomyPageList" . }}</h3>
+                        <p class="text-uppercase small"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="portfolio-content lightbox-gallery">
+
+                {{ range (.Paginator 9).Pages }}
+                    {{ .Render "summary" }}
+                {{ end }}
+
+            </div>
+            {{- template "_internal/pagination.html" . -}}
+        </div>
+    </section>
+</div>
+{{ end }}

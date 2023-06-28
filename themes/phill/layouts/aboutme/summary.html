@@ -1,0 +1,126 @@
+<!-- about us -->
+<section id="about" class="section gray-bg">
+    <div class="container">
+        {{ partial "home/section-title.html" (dict "Title" .Title "SubTitle" .Params.Subtitle) }}
+        <div class="row align-items-center">
+            <div class="col-lg-5 m-15px-tb">
+                <div class="about-me-img box-shadow">
+                    {{ with .Resources.ByType "image" }}
+                    {{ range first 1 . }}
+                    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+                    {{ $lqipw := default "20x" }}
+                    {{ $tinyw := default "500x" }}
+                    {{ $smallw := default "800x" }}
+                    {{ $mediumw := default "1200x" }}
+                    {{ $largew := default "1500x" }}
+
+                    {{/* resize the src image to the given sizes */}}
+
+                    {{ $lqip := .Resize $lqipw }}
+                    {{ $tiny := .Resize $tinyw }}
+                    {{ $small := .Resize $smallw }}
+                    {{ $medium := .Resize $mediumw }}
+                    {{ $large := .Resize $largew }}
+
+                    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+                    {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+                    {{ $img := imageConfig (.RelPermalink | printf "content/%s" ) }}
+                    <div class="img"
+                        style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+                        <svg width="{{ $img.Width }}" height="{{ $img.Height }}" aria-hidden="true"></svg>
+                        <img class="lazyload" data-sizes="auto" data-srcset='
+                        {{ if ge .Width "500" }}
+                        {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
+                        {{ end }}
+                        {{ if ge .Width "800" }}
+                        {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
+                        {{ end }}
+                        {{ if ge .Width "1200" }}
+                        {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+                        {{ end }}
+                        {{ if ge .Width "1500" }}
+                        {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                        {{ end }}' data-src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+                            >
+                        <noscript>
+                            <img loading="lazy"  srcset='
+                        {{ if ge .Width "500" }}
+                            {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
+                        {{ end }}
+                        {{ if ge .Width "800" }}
+                            {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
+                        {{ end }}
+                        {{ if ge .Width "1200" }}
+                            {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+                        {{ end }}
+                        {{ if ge .Width "1500" }}
+                            {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                        {{ end }}'
+                                src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+                                >
+                        </noscript>
+                    </div>{{ end }}
+                    {{ end }}
+                    {{ $socials := where (partialCached "func/socials/Get"
+                    "socials/Get") "follow" "!=" false }}
+                    <div class="nav social-icon">
+                        {{ range $socials }}
+                        <a
+                            href="{{ .url }}"
+                            target="_blank"
+                            title="{{ .label }} link"
+                            rel="noopener"
+                            aria-label="follow on {{ .label }}——Opens in a new window"
+                        >
+                            <i class="fab fa-{{ .name }}"></i>
+                        </a>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 m-15px-tb">
+                <div class="about-me">
+                    <h4>{{ .Params.Caption }}</h4>
+                    <h6>{{ .Description }}</h6>
+                    <p>{{ .Content }}</p>
+                    {{ if .Params.lozenges }}
+                        <div class="row about-list">
+                            {{ $lozengepacks := .Params.lozenges }}
+                            {{ range $lozengepacks }}
+                                <div class="col-md-6">
+                                    {{ range . }}
+                                    <div class="media">
+                                        <label>{{.title}}</label>
+                                        <p>
+                                            {{ if isset . "link" }}
+                                                <a href="{{.link}}">{{.text}}</a>
+                                            {{ else }}
+                                                {{.text}}
+                                            {{ end }}
+                                        </p>
+                                    </div>
+                                    {{ end }}
+                                </div>
+                            {{ end }}
+                        </div>
+                    {{ end }}
+                    {{ if .Params.buttons }}
+                        {{ $buttons := .Params.buttons }}
+                        {{ range $buttons }}
+                            <div class="btn-bar">
+                                {{ range . }}
+                                    <a class="m-btn m-btn-theme" href="{{.link}}">
+                                        {{.text}}
+                                    </a>
+                                {{end}}
+                            </div>
+                        {{end}}
+                    {{end}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end about us -->

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="main-left">
+    <section class="section work" id="work">
+        <div class="container">
+            {{ range first 1 (where (where .Site.Pages "Section" "photo") ".Title" "==" "Photos" ) }}
+                {{ partial "home/section-title.html" (dict "Title" .Title "SubTitle" .Params.Summary)  }}
+            {{ end }}
+            {{.Content}}
+
+        </div>
+        <div class="container">
+            <div class="portfolio-content lightbox-gallery">
+
+                {{ range (.Paginator 9).Pages }}
+                    {{ .Render "summary" }}
+                {{ end }}
+
+            </div>
+            {{- template "_internal/pagination.html" . -}}
+        </div>
+    </section>
+</div>
+{{ end }}

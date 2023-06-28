@@ -1,0 +1,17 @@
+{{ define "main" }}
+<!-- Blog -->
+<section id="blog" class="section gray-bg">
+    <div class="container">
+        {{ range first 1 (where (where .Site.Pages "Section" "post") ".Title" "==" "Blog" ) }}
+            {{ partial "home/section-title.html" (dict "Title" .Title "SubTitle" .Params.Summary)  }}
+        {{ end }}
+        {{.Content}}
+        <div class="row">
+            {{ range first 3 (where (where .Site.Pages "Section" "post") ".Title" "!=" "Blog" )}}
+                {{ .Render "summary" }}
+            {{ end }} 
+        </div>
+    </div>
+</section>
+<!-- End Blog -->
+{{ end }}

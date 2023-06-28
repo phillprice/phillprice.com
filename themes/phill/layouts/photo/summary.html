@@ -1,0 +1,17 @@
+<div class="grid-item product branding">
+    <div class="portfolio-box-01">
+        <div class="portfolio-img">
+            {{ with .Resources.ByType "image" }}
+                {{ range first 1 . }}
+                    {{ $scaled := .Fill "353x353" }}
+                    <img src="{{ $scaled.Permalink }}" title="" alt="">
+                {{ end }}
+            {{ end }}
+        </div>
+        <div class="portfolio-info">
+            <h5>{{.Title}}</h5>
+            <span>{{.Description}}</span>
+        </div>
+        <a class="link-overlay" href="{{ .Permalink }}"></a>
+    </div>
+</div> 

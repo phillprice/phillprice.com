@@ -1,0 +1,26 @@
+<div class="col-lg-4 m-15px-tb">
+    <div class="blog-grid">
+        <div class="blog-grid-img">
+            <a href="{{ .Permalink }}">
+                {{ with .Resources.ByType "image" }}
+                    {{ range first 1 . }}
+                        {{ $scaled := .Resize "x350 q90" }}
+                        <img src="{{ $scaled.Permalink }}" title="" alt="">
+                    {{ end }}
+                {{ end }}
+            </a>
+        </div>
+        <div class="blog-grid-info">
+            <div class="b-meta">
+                <span class="date">{{ .Date.Format " 02 Jan 2006"}}</span>
+                {{ if  (isset .Params "category") }}
+                <span class="meta">{{.Params.category}}</span> {{ end }}
+            </div>
+            <h5><a href="{{ .Permalink }}">{{.Title}}</a></h5>
+            {{.Description}}
+            <div class="btn-grid">
+                <a class="m-btn-link" href="{{ .Permalink }}">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>

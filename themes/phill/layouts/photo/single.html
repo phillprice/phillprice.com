@@ -1,0 +1,133 @@
+{{ define "main" }}
+{{ $section := .Site.GetPage "section" .Section }}
+
+<section class="section single photo">
+    <div class="container">
+       
+        <div class="row sm-m-25px-b m-35px-b">
+            {{- partial "breadcrumbs.html" . -}}
+            <div class="col-md-12">
+                <div class="section-title">
+
+                    <p class="text-uppercase small">
+                        {{ with .Resources.ByType "image" }}
+                        {{ range first 1 . }}
+                        {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+                        {{ $lqipw := default "20x" }}
+                        {{ $tinyw := default "500x" }}
+                        {{ $smallw := default "800x" }}
+                        {{ $mediumw := default "1200x" }}
+                        {{ $largew := default "1500x" }}
+
+                        {{/* resize the src image to the given sizes */}}
+
+                        {{ $lqip := .Resize $lqipw }}
+                        {{ $tiny := .Resize $tinyw }}
+                        {{ $small := .Resize $smallw }}
+                        {{ $medium := .Resize $mediumw }}
+                        {{ $large := .Resize $largew }}
+
+                        {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+                        {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+                        {{ $img := imageConfig (.RelPermalink | printf "content/%s" ) }}
+                        <div class="img"
+                            style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+                            <svg width="{{ $img.Width }}" height="{{ $img.Height }}" aria-hidden="true"></svg>
+                            <img class="lazyload" data-sizes="auto" data-srcset='
+                            {{ if ge .Width "500" }}
+                            {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
+                            {{ end }}
+                            {{ if ge .Width "800" }}
+                            {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
+                            {{ end }}
+                            {{ if ge .Width "1200" }}
+                            {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+                            {{ end }}
+                            {{ if ge .Width "1500" }}
+                            {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                            {{ end }}' data-src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+                                >
+                            <noscript>
+                                <img loading="lazy"  srcset='
+                            {{ if ge .Width "500" }}
+                                {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
+                            {{ end }}
+                            {{ if ge .Width "800" }}
+                                {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
+                            {{ end }}
+                            {{ if ge .Width "1200" }}
+                                {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+                            {{ end }}
+                            {{ if ge .Width "1500" }}
+                                {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                            {{ end }}'
+                                    src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+                                    >
+                            </noscript>
+                        </div>{{ end }}
+                        {{ end }}</p>
+                        <div class="blog-grid">
+
+                            <div class="blog-grid-info">
+                                <h3 class="dark-color text-uppercase">{{ .Title }}</h3>
+                                {{.Content}}
+                                {{ $taxo := "tags" }} <!-- Use the plural form here -->
+                                {{ with .Param $taxo }}
+                                    <strong>Tag{{ if gt (len .) 1 }}s{{ end }}:</strong>
+                                    {{ range $index, $director := . }}
+                                        {{- if gt $index 0 }}, {{ end -}}
+                                        {{ with $.Site.GetPage (printf "/%s/%s" $taxo $director) -}}
+                                            <a href="{{ .Permalink }}">{{ $director }}</a>
+                                        {{- end -}}
+                                    {{- end -}}
+                                {{ end }}
+                                <div class="b-meta">
+                                    <span class="date">{{ .Date.Format " 02 Jan 2006"}}</span>
+                                </div>
+                                {{ if (isset .Params "lat") }}
+                                    {{ if (isset .Params "lng") }}
+                                        <div id="map"></div>
+                                        <script>
+                                            var map = L.map('map').setView([{{ div (float .Params.lat) 1000000}}, {{div (float .Params.lng) 1000000 }}], 13);
+                                            var marker = L.marker([{{ div (float .Params.lat) 1000000}}, {{div (float .Params.lng) 1000000 }}]).addTo(map);
+                                            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                                                maxZoom: 19,
+                                                attribution: '© OpenStreetMap'
+                                            }).addTo(map);
+                                        </script>
+                                    {{ end }}
+                                {{ end }}
+                                <div class="btn-bar" style="margin-top:10px;">
+                                    {{with .PrevInSection}}
+                                        <a class="m-btn m-btn-theme" href="{{ .Permalink }}">←  {{ .Title }}</a>
+
+                                    {{end}}
+                                    {{with .NextInSection}}
+                                    <a style="float:right;" class="m-btn m-btn-theme" href="{{ .Permalink }}"> {{ .Title }} →</a>
+
+                                {{end}}
+                                </div>
+                            </div>
+                        </div>
+
+
+                    {{/*
+                        Show "reading time" and "word count" but only if one of the following are true:
+                        1) A global config `params` value is set `show_reading_time = true`
+                        2) A section front matter value is set `show_reading_time = true`
+                        3) A page front matter value is set `show_reading_time = true`
+                        */}}
+                    {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+                        <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
+                        <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+{{ end }}

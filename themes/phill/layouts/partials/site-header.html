@@ -1,0 +1,40 @@
+<!-- page loading -->
+    <div id="loading">
+        <div class="load-circle"><span class="one"></span></div>
+    </div>
+    <!-- end page loading -->
+    <!-- Mobile Toggle -->
+    <div class="mob-header">
+        <div class="d-flex">
+            <div class="navbar-brand">
+                <a class="logo-text" href="index.html">
+                    {{site.Title | upper }}
+                </a>
+            </div>
+            <button class="toggler-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </div>
+    <!-- / -->
+    <header class="header-left" id="navbar-collapse-toggle">
+        <div class="navbar-brand">
+            <a class="logo-text" href="/">
+                {{site.Title | upper }}
+            </a>
+        </div>
+        <ul class="nav">
+            {{ with site.Params.menu }}
+                {{ range $menu := . }}
+                    <li>
+                        <a class="nav-link" href="{{.link}}">
+                            <i class="fas fa-{{.icon}}"></i>
+                            <span>{{.name}}</span>
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </header>

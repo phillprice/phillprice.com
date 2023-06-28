@@ -1,0 +1,33 @@
+<div class="col-sm-6 col-lg-4 m-15px-tb">
+    <div class="feature-box-1 box-shadow-lg">
+        <div class="icon">
+            <a href="{{ .Permalink }}">
+                {{ with .Resources.ByType "image" }}
+                    {{ range first 1 . }}
+                        <img src="{{ .Permalink }}" class="exp-icon" style="max-height:80px;max-width:80%;" title="" alt="">
+                    {{ end }}
+                {{ end }}
+            </a>
+        </div>
+        <div class="feature-content">
+            <h5><a href="{{ .Permalink }}">{{.Params.JobTitle}}<br/>{{.Title}}</a></h5>
+            <aside class="instapaper_ignoref b helvetica tracked"><a href="{{ .Permalink }}">
+                {{ if .Params.StartDate }}
+                    <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Params.StartDate| time.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                        {{ .Params.StartDate | time.Format (default "January 2006" .Site.Params.date_format) }}
+                    </time> -
+                    {{ if eq .Params.Current  "true" }}
+                        Now
+                    {{else}}
+                        <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date | time.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                            {{ .Date | time.Format (default "January 2006" .Site.Params.date_format) }}
+                        </time>
+                    {{end}}
+                {{end}}</a>
+            </aside>
+            <p>
+                <a href="{{ .Permalink }}">{{.Summary | safeHTML}}</a>
+            </p>
+        </div>
+    </div>
+</div>

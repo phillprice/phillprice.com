@@ -1,0 +1,12 @@
+{{ define "main" }}
+<!-- Main -->
+    <main class="main-left">
+        {{ partial "home/banner.html" . }}
+        {{ partial "home/aboutme.html" . }}
+        
+        {{ if gt (len (where .Data.Pages "Type" "photo")) 0 }}{{ partial "home/photos.html" . }}{{ end }}
+        {{ if gt (len (where .Data.Pages "Type" "experience")) 0 }}{{ partial "home/experience.html" . }}{{ end }}
+        {{ if gt (len (where .Data.Pages "Type" "post")) 0 }}{{ partial "home/blog.html" . }}{{ end }}
+    </main>
+    <!-- main end -->
+{{ end }}

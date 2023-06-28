@@ -1,0 +1,8 @@
+  {{ range .Params.tags }}
+<div class="b-meta">
+        <span class="meta"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+       {{- . -}}
+     </a></span>
+    </div>
+
+    {{ end }}

@@ -1,0 +1,9 @@
+<!-- resume -->
+<section id="experience" class="section gray-bg">
+    <div class="container">
+        {{ range first 1 (where (where .Site.Pages "Section" "showcase") ".Title" "==" "Experience" ) }}
+            {{.Title}}
+        {{ end }}
+    </div>
+</section>
+<!-- End resume -->

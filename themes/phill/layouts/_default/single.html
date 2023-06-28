@@ -1,0 +1,117 @@
+
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+
+        <section class="section single">
+            <div class="container">
+                <div class="row sm-m-25px-b m-35px-b">
+                    <div class="col-md-12">
+                        <div class="section-title">
+                            <aside class="instapaper_ignoref b helvetica tracked">
+                                {{/*
+                                CurrentSection allows us to use the section title instead of inferring from the folder.
+                                https://gohugo.io/variables/page/#section-variables-and-methods
+                                */}}
+                                {{with .CurrentSection.Title }}{{. | upper }}{{end}}{{ if not .Date.IsZero }}
+                                    <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+                                        {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                                    </time>
+                                {{end}}
+                            </aside>
+                            <h3 class="dark-color text-uppercase">{{ .Title }}</h3>
+                            <p class="text-uppercase small">
+                                {{ with .Resources.ByType "image" }}
+                                    {{ range first 1 . }}
+                                    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+                                    {{ $lqipw := default "20x" }}
+                                    {{ $tinyw := default "500x" }}
+                                    {{ $smallw := default "800x" }}
+                                    {{ $mediumw := default "1200x" }}
+                                    {{ $largew := default "1500x" }}
+
+                                    {{/* resize the src image to the given sizes */}}
+
+                                    {{ $lqip := .Resize $lqipw }}
+                                    {{ $tiny := .Resize $tinyw }}
+                                    {{ $small := .Resize $smallw }}
+                                    {{ $medium := .Resize $mediumw }}
+                                    {{ $large := .Resize $largew }}
+
+                                    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+                                    {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+                                    {{ $img := imageConfig (.RelPermalink | printf "content/%s" ) }}
+                                    <div class="img"
+                                        style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+                                        <svg width="{{ $img.Width }}" height="{{ $img.Height }}" aria-hidden="true"></svg>
+                                        <img class="lazyload" data-sizes="auto" data-srcset='
+                                        {{ if ge .Width "500" }}
+                                        {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
+                                        {{ end }}
+                                        {{ if ge .Width "800" }}
+                                        {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
+                                        {{ end }}
+                                        {{ if ge .Width "1200" }}
+                                        {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+                                        {{ end }}
+                                        {{ if ge .Width "1500" }}
+                                        {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                                        {{ end }}' data-src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+                                            >
+                                        <noscript>
+                                            <img loading="lazy"  srcset='
+                                        {{ if ge .Width "500" }}
+                                            {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
+                                        {{ end }}
+                                        {{ if ge .Width "800" }}
+                                            {{ with $small.RelPermalink }}, {{.}} 800w{{ end }}
+                                        {{ end }}
+                                        {{ if ge .Width "1200" }}
+                                            {{ with $medium.RelPermalink }}, {{.}} 1200w{{ end }}
+                                        {{ end }}
+                                        {{ if ge .Width "1500" }}
+                                            {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                                        {{ end }}'
+                                                src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
+                                                >
+                                        </noscript>
+                                    </div>
+                                    {{ end }}
+                                {{ end }}
+                                {{ .TableOfContents }}
+                                {{ .Content }}
+                            </p>
+                            <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+                                {{- partial "tags.html" . -}}
+                                <div class="mt6 instapaper_ignoref">
+                                    {{ if .Site.DisqusShortname }}
+                                        {{ template "_internal/disqus.html" . }}
+                                    {{ end }}
+                                    {{ if .Site.Params.commentoEnable }}
+                                        {{- partial "commento.html" . -}}
+                                    {{ end }}
+                                </div>
+                            </div>
+
+
+
+                            {{/*
+                                Show "reading time" and "word count" but only if one of the following are true:
+                                1) A global config `params` value is set `show_reading_time = true`
+                                2) A section front matter value is set `show_reading_time = true`
+                                3) A page front matter value is set `show_reading_time = true`
+                                */}}
+                            {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+                                <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
+                                <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+{{ end }}

@@ -1,0 +1,8 @@
+{{ $d := time.AsTime . }}
+{{ $firstDayOfYear := 0 }}
+{{ with int $d.YearDay }}
+  {{ $firstDayOfYear = $d.AddDate 0 0 (int (sub 1 $d.YearDay)) }}
+{{ else }}
+  {{ $firstDayOfYear = $d.AddDate 0 0 -364 }}
+{{ end }}
+{{ return ($firstDayOfYear | time.Format "2006-01-02") }}
