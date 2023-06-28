@@ -1,0 +1,26 @@
+---
+title: "sharp curves"
+date: "2009-04-09 14:05:48"
+privacy: "public"
+image: "2009/04/09/sharp-curves/sharp-curves.jpg"
+views: "66"
+faves: "0"
+tags:
+- "angles"
+- "architecture"
+- "bank"
+- "building"
+- "city"
+- "england"
+- "february"
+- "glass"
+- "london"
+- "monochrome"
+- "office"
+- "photowalklondon"
+- "skyscraper"
+- "uk"
+- "willis"
+- "winter"
+---
+<a href="/photos/2009/04/09/sharp-curves"></a>

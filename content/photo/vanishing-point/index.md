@@ -1,0 +1,28 @@
+---
+title: "Vanishing Point"
+date: "2010-03-16 14:51:39"
+privacy: "private"
+image: "2010/03/16/vanishing-point/vanishing-point.jpg"
+views: "26"
+faves: "0"
+tags:
+- "architecture"
+- "bridge"
+- "brooklyn"
+- "brooklynbridge"
+- "manhattan"
+- "new"
+- "york"
+- "newyorkcity"
+- "NYC"
+- "sky"
+- "steel"
+- "united"
+- "states"
+- "america"
+- "usa"
+- "wire"
+- "new york"
+- "united states of america"
+---
+<a href="http://www.phillprice.com/2010/03/16/vanishing-point" rel="nofollow"></a>

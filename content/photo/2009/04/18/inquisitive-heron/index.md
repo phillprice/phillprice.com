@@ -1,0 +1,25 @@
+---
+title: "Inquisitive Heron"
+date: "2009-04-18 13:10:27"
+privacy: "public"
+image: "2009/04/18/inquisitive-heron/inquisitive-heron.jpg"
+views: "60"
+faves: "3"
+lat: "52695892"
+lng: "1466073"
+tags:
+- "via-pixelpipe"
+- "bird"
+- "england"
+- "firend"
+- "heron"
+- "horning"
+- "inquisitive"
+- "monochrome"
+- "norfolk"
+- "portrait"
+- "uk"
+- "London"
+- "United Kingdom"
+---
+We sat for lunch outside the (now closed) Ferry Inn in Horning. This Heron casually flew in and stood about 4 feet away, amazing!<a href="/photos/2009/04/18/inquisitive-heron"></a>

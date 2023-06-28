@@ -1,0 +1,25 @@
+---
+title: "knowing stare"
+date: "2009-09-19 15:24:59"
+privacy: "public"
+image: "2009/09/19/knowing-stare/knowing-stare.jpg"
+views: "190"
+faves: "5"
+lat: "51211561"
+lng: "-1562633"
+tags:
+- "andover"
+- "bird"
+- "conservancy"
+- "england"
+- "hampshire"
+- "hawk"
+- "monochrome"
+- "portrait"
+- "owl"
+- "trust"
+- "uk"
+- "hawk conservancy"
+- "monochrome portrait"
+---
+<a href="/photos/2009/09/19/knowing-stare" rel="nofollow"></a>

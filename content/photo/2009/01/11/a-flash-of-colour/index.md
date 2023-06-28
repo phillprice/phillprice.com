@@ -1,0 +1,25 @@
+---
+title: "A flash of colour"
+date: "2009-01-11 14:32:53"
+privacy: "public"
+image: "2009/01/11/a-flash-of-colour/a-flash-of-colour.jpg"
+views: "65"
+faves: "1"
+tags:
+- "cold"
+- "diagonals"
+- "england"
+- "january"
+- "london"
+- "monochrome"
+- "person"
+- "photowalklondon"
+- "red"
+- "south"
+- "bank"
+- "southwark"
+- "uk"
+- "winter"
+- "south bank"
+---
+<a href="/photos/2009/01/11/a-flash-of-colour"></a>

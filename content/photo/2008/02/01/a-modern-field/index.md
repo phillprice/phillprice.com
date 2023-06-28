@@ -1,0 +1,28 @@
+---
+title: "a modern field"
+date: "2008-02-01 17:05:30"
+privacy: "public"
+image: "2008/02/01/a-modern-field/a-modern-field.jpg"
+views: "97"
+faves: "1"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+I'm afraid I didn't pick up the name or artist of this on the wall as you go down the escalators, look carefully at the shadows, very clever.

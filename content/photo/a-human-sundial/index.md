@@ -1,0 +1,25 @@
+---
+title: "A human sundial"
+date: "2010-02-25 15:06:29"
+privacy: "private"
+image: "2010/02/25/a-human-sundial/a-human-sundial.jpg"
+views: "28"
+faves: "0"
+tags:
+- "canary"
+- "wharf"
+- "canarywharf"
+- "dark"
+- "docklands"
+- "england"
+- "evening"
+- "isle"
+- "dogs"
+- "london"
+- "man"
+- "night"
+- "sillhouette"
+- "uk"
+- "isle of dogs"
+---
+... and I make the time Beer o'clock!<a href="http://www.phillprice.com/2010/02/25/a-human-sundial" rel="nofollow"></a>

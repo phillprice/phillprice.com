@@ -1,0 +1,26 @@
+---
+title: "Planes and perspective"
+date: "2010-01-09 15:46:02"
+privacy: "private"
+image: "2010/01/09/planes-and-perspective/planes-and-perspective.jpg"
+views: "52"
+faves: "0"
+tags:
+- "blue"
+- "bridge"
+- "brooklyn"
+- "brooklynbridge"
+- "new"
+- "york"
+- "NYC"
+- "sky"
+- "steel"
+- "united"
+- "states"
+- "america"
+- "usa"
+- "wire"
+- "new york"
+- "united states of america"
+---
+<a href="http://www.phillprice.com/2010/01/09/planes-and-perspective" rel="nofollow"></a>

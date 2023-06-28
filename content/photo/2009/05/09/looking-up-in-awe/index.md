@@ -1,0 +1,26 @@
+---
+title: "Looking up in awe"
+date: "2009-05-09 14:50:51"
+privacy: "public"
+image: "2009/05/09/looking-up-in-awe/looking-up-in-awe.jpg"
+views: "81"
+faves: "1"
+lat: "51500431"
+lng: "-177186"
+tags:
+- "albert hall"
+- "chelsea"
+- "england"
+- "kensington"
+- "kensington and chelsea"
+- "london"
+- "monochrome"
+- "person"
+- "photowalklondon"
+- "portrait"
+- "rah"
+- "rbkc"
+- "royal albert hall"
+- "uk"
+---
+<a href="/photos/2009/05/09/looking-up-in-awe"></a>

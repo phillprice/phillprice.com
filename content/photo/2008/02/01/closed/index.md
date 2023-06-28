@@ -1,0 +1,28 @@
+---
+title: "Closed"
+date: "2008-02-01 17:11:23"
+privacy: "public"
+image: "2008/02/01/closed/closed.jpg"
+views: "75"
+faves: "0"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+Shepherds Bush is now closed for 8 months (supposedly) the new station looks no where near as good IMO

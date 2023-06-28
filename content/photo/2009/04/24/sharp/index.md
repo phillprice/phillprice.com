@@ -1,0 +1,26 @@
+---
+title: "Sharp"
+date: "2009-04-24 15:00:08"
+privacy: "public"
+image: "2009/04/24/sharp/sharp.jpg"
+views: "97"
+faves: "2"
+tags:
+- "angles"
+- "architecture"
+- "bank"
+- "building"
+- "city"
+- "england"
+- "february"
+- "glass"
+- "london"
+- "monochrome"
+- "office"
+- "photowalklondon"
+- "skyscraper"
+- "uk"
+- "willis"
+- "winter"
+---
+<a href="/photos/2009/04/24/sharp-3"></a>

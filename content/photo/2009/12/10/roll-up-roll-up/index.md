@@ -1,0 +1,26 @@
+---
+title: "Roll up-Roll up"
+date: "2009-12-10 16:09:47"
+privacy: "private"
+image: "2009/12/10/roll-up-roll-up/roll-up-roll-up.jpg"
+views: "68"
+faves: "0"
+tags:
+- "england"
+- "london"
+- "uk"
+- "man"
+- "pedestrian"
+- "pedestrianised"
+- "photowalklondon"
+- "portrait"
+- "red coat"
+- "regent street"
+- "shopping"
+- "street"
+- "top hat"
+- "toy shop"
+- "vip"
+- "circus"
+---
+One of the Hamley's ringmasters takes a well earned break and struts down regent Street; away from hordes of children and parents eager to get the perfect gift.<a href="http://www.phillprice.com/2009/12/11/roll-up-roll-up" rel="nofollow"></a>

@@ -1,0 +1,26 @@
+---
+title: "curvature"
+date: "2010-01-11 15:08:45"
+privacy: "private"
+image: "2010/01/11/curvature/curvature.jpg"
+views: "46"
+faves: "0"
+lat: "40754409"
+lng: "-73981933"
+tags:
+- "architecture"
+- "building"
+- "glass"
+- "manhattan"
+- "new"
+- "york"
+- "NYC"
+- "skyscraper"
+- "united"
+- "states"
+- "america"
+- "usa"
+- "new york"
+- "united states of america"
+---
+<a href="http://www.phillprice.com/2010/01/11/curvature" rel="nofollow"></a>

@@ -1,0 +1,27 @@
+---
+title: "Sunny afternoon at the beach"
+date: "2009-06-26 16:32:09"
+privacy: "public"
+image: "2009/06/26/sunny-afternoon-at-the-beach/sunny-afternoon-at-the-beach.jpg"
+views: "82"
+faves: "1"
+lat: "50721677"
+lng: "-1741676"
+tags:
+- "beach"
+- "hut"
+- "dorset"
+- "england"
+- "hengistbury"
+- "head"
+- "mudeford"
+- "sandspit"
+- "solar"
+- "uk"
+- "beach hut"
+- "hengistbury head"
+- "mudeford sandspit"
+- "London"
+- "United Kingdom"
+---
+<a href="/photos/2009/06/26/sunny-afternoon-at-the-beach" rel="nofollow"></a>

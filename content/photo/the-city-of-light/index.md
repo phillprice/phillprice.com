@@ -1,0 +1,28 @@
+---
+title: "The city of light"
+date: "2010-03-01 15:06:16"
+privacy: "private"
+image: "2010/03/01/the-city-of-light/the-city-of-light.jpg"
+views: "121"
+faves: "0"
+tags:
+- "architecture"
+- "building"
+- "glass"
+- "manhattan"
+- "monochrome"
+- "new"
+- "york"
+- "newyorkcity"
+- "night"
+- "NYC"
+- "skyscraper"
+- "taxi"
+- "united"
+- "states"
+- "america"
+- "usa"
+- "new york"
+- "united states of america"
+---
+<a href="http://www.phillprice.com/2010/03/01/the-city-of-light" rel="nofollow"></a>

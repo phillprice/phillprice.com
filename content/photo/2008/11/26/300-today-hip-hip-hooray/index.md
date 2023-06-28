@@ -1,0 +1,28 @@
+---
+title: "300 today. Hip-hip Hooray!"
+date: "2008-11-26 15:24:08"
+privacy: "public"
+image: "2008/11/26/300-today-hip-hip-hooray/300-today-hip-hip-hooray.jpg"
+views: "61"
+faves: "1"
+lat: "51514177"
+lng: "-104327"
+tags:
+- "via-pixelpipe"
+- "300"
+- "birthday"
+- "bus"
+- "cathedral"
+- "city"
+- "cityoflondon"
+- "england"
+- "london"
+- "pauls"
+- "potland"
+- "red"
+- "saint"
+- "st"
+- "tourist"
+- "uk"
+---
+Three hundred years ago today the top of St Pauls Cathedral was put in place. These days, as well as being a major part of London's tourist industry, it plays a corner stone in London's planning law as view of it are protected across the city - even if it's recently dwarfed by city neighbours. (and no it's not HDR just playing with processing - it is however a vertical panorama!)<a href="/photos/2008/11/27/300-today-hip-hip-hooray"></a>

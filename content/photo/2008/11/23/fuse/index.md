@@ -1,0 +1,25 @@
+---
+title: "Fuse"
+date: "2008-11-23 10:48:39"
+privacy: "public"
+image: "2008/11/23/fuse/fuse.jpg"
+views: "56"
+faves: "2"
+tags:
+- "via-pixelpipe"
+- "diagonals"
+- "france"
+- "fuse"
+- "ile"
+- "de"
+- "intersect"
+- "la"
+- "defense"
+- "paris"
+- "sfr"
+- "skyscraper"
+- "square"
+- "tower"
+- "window"
+---
+<a href="/photos/2008/11/23/fuse"></a>

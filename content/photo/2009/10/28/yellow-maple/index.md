@@ -1,0 +1,28 @@
+---
+title: "Yellow Maple"
+date: "2009-10-28 17:28:10"
+privacy: "private"
+image: "2009/10/28/yellow-maple/yellow-maple.jpg"
+views: "62"
+faves: "0"
+lat: "51503079"
+lng: "-182293"
+tags:
+- "autumn"
+- "away"
+- "canada"
+- "england"
+- "fall"
+- "float"
+- "grass"
+- "hydepark"
+- "leaf"
+- "london"
+- "maple"
+- "one"
+- "single"
+- "tree"
+- "uk"
+- "yellow"
+---
+In Hyde Park on Saturday I could have (and did) take hundreds of photos or reddy brown leaves; and then I saw this lttle fella; all by himself to one side; gleaming bright yellow.<a href="http://www.phillprice.com/2009/10/29/yellow-maple" rel="nofollow"></a>

@@ -1,0 +1,26 @@
+---
+title: "Cosworth corner"
+date: "2008-07-16 14:01:59"
+privacy: "public"
+image: "2008/07/16/cosworth-corner/cosworth-corner.jpg"
+views: "110"
+faves: "4"
+lat: "50873640"
+lng: "-742160"
+tags:
+- "135mm"
+- "14"
+- "air partners"
+- "arai"
+- "cosworth"
+- "engand"
+- "f2"
+- "festivl of speed"
+- "formula one"
+- "goodwood"
+- "oakley"
+- "sussex"
+- "uk"
+- "Epic Edits Selection"
+---
+Almost looks like a model, but it's real!<a href="/photos/2008/07/16/cosworth-corner"></a>

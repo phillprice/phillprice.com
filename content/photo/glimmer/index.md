@@ -1,0 +1,25 @@
+---
+title: "Glimmer"
+date: "2010-03-02 15:29:08"
+privacy: "private"
+image: "2010/03/02/glimmer/glimmer.jpg"
+views: "32"
+faves: "0"
+tags:
+- "architecture"
+- "building"
+- "glass"
+- "manhattan"
+- "new"
+- "york"
+- "newyorkcity"
+- "NYC"
+- "skyscraper"
+- "united"
+- "states"
+- "america"
+- "usa"
+- "new york"
+- "united states of america"
+---
+<a href="http://www.phillprice.com/2010/03/02/glimmer" rel="nofollow"></a>

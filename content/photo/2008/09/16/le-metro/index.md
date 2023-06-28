@@ -1,0 +1,28 @@
+---
+title: "Le Metro"
+date: "2008-09-16 15:29:57"
+privacy: "public"
+image: "2008/09/16/le-metro/le-metro.jpg"
+views: "68"
+faves: "0"
+lat: "48867531"
+lng: "2313542"
+tags:
+- "Champs-lyses"
+- "Champs-lyses - Clemenceau"
+- "autumn"
+- "brown"
+- "fall"
+- "francetree"
+- "gold"
+- "ile de france"
+- "line 1"
+- "metro"
+- "paris"
+- "red"
+- "sign"
+- "tube"
+- "typography"
+- "underground"
+---
+A golden Metro entrance on a golden Autumn day in Paris.<a href="/photos/2008/09/16/le-metro"></a>

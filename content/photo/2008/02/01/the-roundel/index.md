@@ -1,0 +1,28 @@
+---
+title: "the roundel"
+date: "2008-02-01 17:10:15"
+privacy: "public"
+image: "2008/02/01/the-roundel/the-roundel.jpg"
+views: "126"
+faves: "1"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+They better keep it green down here, if it goes beige like the rest of the new central line work i'll cry

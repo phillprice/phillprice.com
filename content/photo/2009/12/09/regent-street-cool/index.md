@@ -1,0 +1,25 @@
+---
+title: "Regent Street Cool"
+date: "2009-12-09 15:14:49"
+privacy: "private"
+image: "2009/12/09/regent-street-cool/regent-street-cool.jpg"
+views: "57"
+faves: "0"
+tags:
+- "candid"
+- "england"
+- "london"
+- "monochrome"
+- "pedestrian"
+- "pedestrianised"
+- "people"
+- "photowalk"
+- "photowalklondon"
+- "regent"
+- "street"
+- "regentstreet"
+- "shopping"
+- "uk"
+- "vip"
+---
+<a href="http://www.phillprice.com/2009/12/09/regent-street-cool" rel="nofollow"></a>

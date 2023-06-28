@@ -1,0 +1,26 @@
+---
+title: "3000  - 3800"
+date: "2008-04-24 01:24:44"
+privacy: "public"
+image: "2008/04/24/3000-3800/3000-3800.jpg"
+views: "123"
+faves: "4"
+lat: "51494994"
+lng: "-245239"
+tags:
+- "3000"
+- "3800"
+- "aprilchallenge"
+- "england"
+- "entropy"
+- "hammersmith"
+- "london"
+- "londonunderground"
+- "photochallenge"
+- "sign"
+- "stamfordbrook"
+- "typography"
+- "uk"
+- "United Kingdom"
+---
+The sign to the bottom left is wearing away and I guess shows the gradient of the track changing. How tidy is that cable looping? Questions from this shot at Stamford Brook. April Challenge #24<a href="/photos/2008/04/24/3000-3800"></a>

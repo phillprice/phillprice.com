@@ -1,0 +1,26 @@
+---
+title: "Starting a long dark journey home"
+date: "2009-10-20 15:23:55"
+privacy: "private"
+image: "2009/10/20/starting-a-long-dark-journey-home/starting-a-long-dark-journey-home.jpg"
+views: "56"
+faves: "0"
+lat: "51505837"
+lng: "-28243"
+tags:
+- "commute"
+- "commuter"
+- "england"
+- "home"
+- "journey"
+- "london"
+- "man"
+- "sillhouette"
+- "travel"
+- "uk"
+- "westferry"
+- "circus"
+- "worker"
+- "westferry circus"
+---
+A commuter heads for the Thames Clipper ferry at Westferry, in Docklands. Thames Clipper are a fleet of boats that ferry people up and down the Thames as an alternative to the tube. They get very busy if the tube isn't working!<a href="http://www.phillprice.com/2009/10/20/starting-a-long-dark-journey-home" rel="nofollow"></a>

@@ -1,0 +1,28 @@
+---
+title: "cinq visages"
+date: "2008-10-19 12:04:41"
+privacy: "public"
+image: "2008/10/19/cinq-visages/cinq-visages.jpg"
+views: "56"
+faves: "1"
+lat: "48892566"
+lng: "2242762"
+tags:
+- "via-pixelpipe"
+- "france"
+- "glass"
+- "ile"
+- "de"
+- "la"
+- "defense"
+- "monochrome"
+- "paris"
+- "skyscraper"
+- "total"
+- "tower"
+- "window"
+- "ile de france"
+- "la defense"
+- "Featured on adidap.com"
+---
+<a href="/photos/2008/10/19/cinq-visages"></a>

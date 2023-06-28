@@ -1,0 +1,25 @@
+---
+title: "Snuggling Neighbours"
+date: "2008-10-16 15:35:34"
+privacy: "public"
+image: "2008/10/16/snuggling-neighbours/snuggling-neighbours.jpg"
+views: "77"
+faves: "3"
+lat: "51502822"
+lng: "-19892"
+tags:
+- "architecture"
+- "canary wharf"
+- "england"
+- "glass"
+- "intersection"
+- "junction"
+- "juncture"
+- "london"
+- "monochrome"
+- "portrait"
+- "seam"
+- "steel"
+- "uk"
+---
+The tall steel clad masculine strength of one against the feminine simplicity of the clean glass neighbour.<a href="/photos/2008/10/16/snuggling-neighbours"></a>

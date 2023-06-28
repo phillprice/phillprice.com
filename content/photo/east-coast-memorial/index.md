@@ -1,0 +1,37 @@
+---
+title: "East Coast Memorial"
+date: "2010-01-13 15:53:38"
+privacy: "private"
+image: "2010/01/13/east-coast-memorial/east-coast-memorial.jpg"
+views: "69"
+faves: "0"
+lat: "40701980"
+lng: "-74016265"
+tags:
+- "atlantic"
+- "batterypark"
+- "bronze"
+- "eagle"
+- "granite"
+- "memorial"
+- "monument"
+- "new"
+- "york"
+- "NYC"
+- "ocean"
+- "skyscraper"
+- "united"
+- "states"
+- "america"
+- "usa"
+- "word"
+- "war"
+- "2"
+- "wwii"
+- "new york"
+- "united states of america"
+- "word war 2"
+---
+The memorial commemorates U.S. servicemen who died in coastal waters of the western Atlantic Ocean during World War II. A total of 4,609 names are inscribed on both sides of eight 19-foot-tall granite pylons. The pylons are arranged in two rows of four each. Between the two rows stands a bronze statue of an eagle, erected on a black granite pedestal. The eagle faces the Statue of Liberty in New York harbor.<a href="http://en.wikipedia.org/wiki/East_Coast_Memorial" rel="nofollow">Wikipedia</a>
+
+It's a big difference to the new monuments that stand proud and glossy behind it in downown Manhattan huh<a href="http://www.phillprice.com/2010/01/13/east-coast-memorial" rel="nofollow"></a>

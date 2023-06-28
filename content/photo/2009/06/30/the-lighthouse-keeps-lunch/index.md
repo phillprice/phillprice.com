@@ -1,0 +1,28 @@
+---
+title: "The Lighthouse keeps lunch"
+date: "2009-06-30 15:02:17"
+privacy: "public"
+image: "2009/06/30/the-lighthouse-keeps-lunch/the-lighthouse-keeps-lunch.jpg"
+views: "61"
+faves: "1"
+lat: "50735776"
+lng: "240991"
+tags:
+- "battle"
+- "beachy"
+- "head"
+- "bluesea"
+- "book"
+- "eastbourne"
+- "england"
+- "house"
+- "light"
+- "lighthouse"
+- "lunch"
+- "red"
+- "sussex"
+- "uk"
+- "white"
+- "beachy head"
+---
+This reminds me of <a href="http://www.amazon.co.uk/gp/product/1407103156?ie=UTF8&amp;tag=maxxed-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1407103156" rel="nofollow">a book I read as a child</a> where the lighthouse keepers lunch is passed down on wires like these - and is taken daily by seagulls until the sandwhiches are made hot<a href="/photos/2009/06/30/the-lighthouse-keeps-lunch" rel="nofollow"></a>

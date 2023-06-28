@@ -1,0 +1,25 @@
+---
+title: "Golden one"
+date: "2009-09-26 16:05:39"
+privacy: "private"
+image: "2009/09/26/golden-one/golden-one.jpg"
+views: "29"
+faves: "0"
+lat: "51503887"
+lng: "-150005"
+tags:
+- "1"
+- "carving"
+- "england"
+- "gold"
+- "letting"
+- "london"
+- "number"
+- "one"
+- "photowalk"
+- "september"
+- "stone"
+- "typography"
+- "uk"
+---
+<a href="/photos/2009/09/27/golden-one" rel="nofollow"></a>

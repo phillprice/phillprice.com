@@ -1,0 +1,27 @@
+---
+title: "mutual trust"
+date: "2008-08-29 15:16:19"
+privacy: "public"
+image: "2008/08/29/mutual-trust/mutual-trust.jpg"
+views: "74"
+faves: "4"
+lat: "50857572"
+lng: "-1759732"
+tags:
+- "bleached"
+- "country"
+- "country park"
+- "england"
+- "fence"
+- "forest"
+- "hampshire"
+- "horse"
+- "new"
+- "new forest"
+- "new forest country park"
+- "park"
+- "portrait"
+- "soul"
+- "uk"
+---
+This shot (about 7 months old) is from a cold day with the wind flowing through this horse's hair. He came over to say hello while Dad and I walked through the forest. I think he trusts me, and I trust him. Interestingly I'm watching Walk the Line in the background, and the colour treatment appears to have worn off unexpectedly!<a href="/photos/2008/08/29/mutual-trust"></a>

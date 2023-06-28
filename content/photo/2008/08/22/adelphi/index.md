@@ -1,0 +1,27 @@
+---
+title: "Adelphi"
+date: "2008-08-22 14:53:53"
+privacy: "public"
+image: "2008/08/22/adelphi/adelphi.jpg"
+views: "55"
+faves: "0"
+lat: "51510009"
+lng: "-122850"
+tags:
+- "Photowalk:London=20080816"
+- "adelphi"
+- "adelphi theatre"
+- "brown"
+- "england"
+- "london"
+- "photowalking081608"
+- "photowalking160808"
+- "photowalking:london160808"
+- "sign"
+- "theatre"
+- "theatreland"
+- "typography"
+- "uk"
+- "upcoming:event=467493"
+---
+The corner of the Adelphi Theatre in London, a bit tatty around the edges and with a 70s brown colour, nice.<a href="/photos/2008/08/22/adelphi"></a>

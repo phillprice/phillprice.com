@@ -1,0 +1,26 @@
+---
+title: "1 year on"
+date: "2009-09-21 15:24:17"
+privacy: "public"
+image: "2009/09/21/1-year-on/1-year-on.jpg"
+views: "171"
+faves: "2"
+lat: "51483263"
+lng: "-5709"
+tags:
+- "architecture"
+- "building"
+- "duotone"
+- "england"
+- "greenwich"
+- "landscape"
+- "london"
+- "londonflickrmeetups"
+- "meetup"
+- "october"
+- "sky"
+- "uk"
+- "unitedkingdom"
+- "upcoming:event=1022271"
+---
+This photo was taken a year ago at Greenwich – it’s of the Naval College there. You may recognise it as I posted a warmer version back in April. <a target="_blank" href="/photos/2009/09/21/1-year-on/" rel="nofollow">Which do you prefer</a>? <a target="_blank" href="/photos/2009/09/21/1-year-on/" rel="nofollow"></a>

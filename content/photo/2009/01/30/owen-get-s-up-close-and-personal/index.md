@@ -1,0 +1,28 @@
+---
+title: "Owen get's up close and personal"
+date: "2009-01-30 13:34:26"
+privacy: "public"
+image: "2009/01/30/owen-get-s-up-close-and-personal/owen-get-s-up-close-and-personal.jpg"
+views: "162"
+faves: "0"
+tags:
+- "5d"
+- "mk2"
+- "mkii"
+- "canon"
+- "england"
+- "hungerford"
+- "bridge"
+- "london"
+- "night"
+- "owen"
+- "strap"
+- "uk"
+- "5d mk2"
+- "5d mkii"
+- "canon 5d"
+- "canon 5d mk2"
+- "canon 5d mkii"
+- "hungerford bridge"
+---
+And yes I did over do the noise reduction (well it's not a miracle worker - it is dark and ISO 6400 :D ) - Unknowingly modeled by Owen Richards of <a href="http://www.owenrichards.co.uk/">www.owenrichards.co.uk/</a><a href="/photos/2009/01/30/owen-gets-up-close-and-personal"></a>

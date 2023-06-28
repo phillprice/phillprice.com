@@ -1,0 +1,25 @@
+---
+title: "Golden Pheasant"
+date: "2009-01-03 15:48:41"
+privacy: "public"
+image: "2009/01/03/golden-pheasant/golden-pheasant.jpg"
+views: "168"
+faves: "3"
+lat: "51491591"
+lng: "-304656"
+tags:
+- "Chrysolophus"
+- "pictus"
+- "england"
+- "fauna"
+- "gardens"
+- "golden"
+- "pheasant"
+- "kew"
+- "richmond"
+- "uk"
+- "Chrysolophus pictus"
+- "golden pheasant"
+- "kew gardens"
+---
+A group (flock?) were wondering around Kew Gardes on Thursday, luckily I didn't have to harass them with the 135mm :)<a href="/photos/2009/01/03/golden-pheasant"></a>

@@ -1,0 +1,28 @@
+---
+title: "nene neck"
+date: "2009-03-21 16:56:59"
+privacy: "public"
+image: "2009/03/21/nene-neck/nene-neck.jpg"
+views: "77"
+faves: "1"
+lat: "51477086"
+lng: "-235165"
+tags:
+- "via-pixelpipe"
+- "barnes"
+- "england"
+- "hawaian"
+- "goose"
+- "london"
+- "londonflickrmeetups"
+- "nene"
+- "ninja"
+- "trust"
+- "uk"
+- "upcoming:event=1747198"
+- "wetland"
+- "wildfowl"
+- "wwt"
+- "hawaian goose"
+---
+I'm going to pretend that this is on purpose and not that they turned away at the last second!<a href="/photos/2009/03/21/nene-neck"></a>

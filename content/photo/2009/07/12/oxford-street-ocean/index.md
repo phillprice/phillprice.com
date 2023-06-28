@@ -1,0 +1,28 @@
+---
+title: "Oxford Street Ocean"
+date: "2009-07-12 15:39:15"
+privacy: "public"
+image: "2009/07/12/oxford-street-ocean/oxford-street-ocean.jpg"
+views: "191"
+faves: "7"
+lat: "51514698"
+lng: "-146346"
+tags:
+- "christmas"
+- "shopping"
+- "credit"
+- "crunch"
+- "england"
+- "london"
+- "oxford"
+- "street"
+- "pedestrian"
+- "pedestrianised"
+- "regent"
+- "uk"
+- "vip"
+- "christmas shopping"
+- "credit crunch"
+- "oxford street"
+---
+<a href="/photos/2009/07/12/oxford-street-ocean" rel="nofollow"></a>

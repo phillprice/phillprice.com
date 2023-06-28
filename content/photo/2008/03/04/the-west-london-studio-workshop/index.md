@@ -1,0 +1,25 @@
+---
+title: "the west london studio workshop"
+date: "2008-03-04 23:49:51"
+privacy: "public"
+image: "2008/03/04/the-west-london-studio-workshop/the-west-london-studio-workshop.jpg"
+views: "30"
+faves: "0"
+lat: "51493768"
+lng: "-230369"
+tags:
+- "bridge"
+- "district"
+- "district line"
+- "england"
+- "green"
+- "hammersmith"
+- "london"
+- "londonunderground"
+- "railay"
+- "sign"
+- "uk"
+- "underground"
+- "United Kingdom"
+---
+Tucked underneath the District Line bridge is a little studio, I'm not sure what they do.

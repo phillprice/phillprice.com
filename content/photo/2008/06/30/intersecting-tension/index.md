@@ -1,0 +1,27 @@
+---
+title: "Intersecting tension"
+date: "2008-06-30 12:08:37"
+privacy: "public"
+image: "2008/06/30/intersecting-tension/intersecting-tension.jpg"
+views: "62"
+faves: "0"
+lat: "51501604"
+lng: "-19735"
+tags:
+- "CONCRETE"
+- "architecture"
+- "bank street"
+- "bridge"
+- "building"
+- "canary wharf"
+- "docklands"
+- "glass"
+- "heron quays"
+- "intersetion"
+- "monochrome"
+- "south quay"
+- "tension"
+- "London"
+- "United Kingdom"
+---
+probably one of my favourite black and white shots this year - and for some reason saved and not unleashed until today. Maybe it's a reminder of the six months that have just gone and a vision for the next six?<a href="/photos/2008/06/30/intersecting-tension"></a>

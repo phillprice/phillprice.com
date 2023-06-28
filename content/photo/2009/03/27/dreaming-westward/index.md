@@ -1,0 +1,25 @@
+---
+title: "Dreaming Westward"
+date: "2009-03-27 17:01:26"
+privacy: "public"
+image: "2009/03/27/dreaming-westward/dreaming-westward.jpg"
+views: "104"
+faves: "7"
+lat: "51500975"
+lng: "-122088"
+tags:
+- "via-pixelpipe"
+- "bridge"
+- "city"
+- "dark"
+- "dreaming"
+- "englnd"
+- "eye"
+- "london"
+- "night"
+- "photowalk"
+- "photowalklondon"
+- "uk"
+- "westminster"
+---
+<a href="/photos/2009/03/28/dreaming-westward"></a>

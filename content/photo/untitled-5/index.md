@@ -1,0 +1,25 @@
+---
+title: "untitled"
+date: "2008-12-06 07:48:16"
+privacy: "public"
+image: "2008/12/06/untitled/untitled.jpg"
+views: "345"
+faves: "6"
+tags:
+- "via-pixelpipe"
+- "christmas"
+- "shopping"
+- "credit"
+- "crunch"
+- "england"
+- "london"
+- "pedestrian"
+- "pedestrianised"
+- "regent"
+- "street"
+- "uk"
+- "vip"
+- "christmas shopping"
+- "credit crunch"
+---
+Sorry to interrupt the 5D stream, but I went to Regent Street and Oxford Street Earlier - Here's Regent Street (closed to traffic for the weekend.)<a href="/photos/2008/12/06/regent-street-on-vip-day"></a>

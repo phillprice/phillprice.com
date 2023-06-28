@@ -1,0 +1,25 @@
+---
+title: "Haslar Marina"
+date: "2005-03-02 11:37:17"
+privacy: "friend & family"
+image: "2005/03/02/haslar-marina/haslar-marina.jpg"
+views: "42"
+faves: "0"
+lat: "50796753"
+lng: "-1116148"
+tags:
+- "Portsmouth"
+- "february"
+- "2005"
+- "hampshire"
+- "england"
+- "uk"
+- "sea"
+- "solent"
+- "haslar"
+- "harbour"
+- "geo:lat=50.796753"
+- "geo:lon=-1.116148"
+- "geotagged"
+---
+

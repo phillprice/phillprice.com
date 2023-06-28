@@ -1,0 +1,27 @@
+---
+title: "Miniature London?"
+date: "2009-11-01 15:15:25"
+privacy: "private"
+image: "2009/11/01/miniature-london/miniature-london.jpg"
+views: "43"
+faves: "0"
+lat: "51508769"
+lng: "-87225"
+tags:
+- "england"
+- "hms"
+- "belfast"
+- "inflatable"
+- "rib"
+- "london"
+- "morelondon"
+- "tilt"
+- "shift"
+- "towerbridge"
+- "ts-e"
+- "uk"
+- "hms belfast"
+- "inflatable rib"
+- "tilt shift"
+---
+I've been playing with tilt-shift over the weekend; I'll be posting more over the next few weeks. don't think this is quite the miniature look; but I like the focal plane along the centre of the Thames.<a href="http://www.phillprice.com/2009/11/02/miniature-london" rel="nofollow"></a>

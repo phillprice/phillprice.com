@@ -1,0 +1,27 @@
+---
+title: "Tower 0.42"
+date: "2009-11-08 14:34:52"
+privacy: "private"
+image: "2009/11/08/tower-0-42/tower-0-42.jpg"
+views: "53"
+faves: "0"
+tags:
+- "angles"
+- "architecture"
+- "building"
+- "city"
+- "dusk"
+- "england"
+- "glass"
+- "london"
+- "minature"
+- "natwest"
+- "office"
+- "skyscraper"
+- "tiltshift"
+- "tower"
+- "tower42"
+- "twilight"
+- "uk"
+---
+<a href="http://www.phillprice.com/2009/11/09/tower-0-42" rel="nofollow"></a>

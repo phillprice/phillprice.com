@@ -1,0 +1,28 @@
+---
+title: "gold piping"
+date: "2008-02-01 17:09:05"
+privacy: "public"
+image: "2008/02/01/gold-piping/gold-piping.jpg"
+views: "109"
+faves: "2"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+no i hadn't noticed it either, note the old singing wiht the lettering through the roundel.

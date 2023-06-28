@@ -1,0 +1,25 @@
+---
+title: "Decisions"
+date: "2009-05-02 15:01:32"
+privacy: "public"
+image: "2009/05/02/decisions/decisions.jpg"
+views: "88"
+faves: "2"
+tags:
+- "via-pixelpipe"
+- "book"
+- "cold"
+- "conversation"
+- "england"
+- "january"
+- "london"
+- "mobile"
+- "person"
+- "phone"
+- "photowalklondon"
+- "portrait"
+- "south bank"
+- "uk"
+- "winter"
+---
+Under waterloo bridge there is *always* a book market - and this chap is picking out a good one, whoever he is.<a href="/photos/2009/05/03/decisions"></a>

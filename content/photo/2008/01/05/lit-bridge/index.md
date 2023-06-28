@@ -1,0 +1,25 @@
+---
+title: "lit bridge"
+date: "2008-01-05 10:51:17"
+privacy: "public"
+image: "2008/01/05/lit-bridge/lit-bridge.jpg"
+views: "5"
+faves: "1"
+lat: "51510825"
+lng: "-104402"
+tags:
+- "london"
+- "uk"
+- "night"
+- "landscape"
+- "blackfriars"
+- "oxo"
+- "eye"
+- "londoneye"
+- "bridge"
+- "river"
+- "thames"
+- "riverthames"
+- "tate"
+---
+

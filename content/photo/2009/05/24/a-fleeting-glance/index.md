@@ -1,0 +1,26 @@
+---
+title: "A fleeting glance"
+date: "2009-05-24 15:14:27"
+privacy: "public"
+image: "2009/05/24/a-fleeting-glance/a-fleeting-glance.jpg"
+views: "165"
+faves: "14"
+lat: "51500975"
+lng: "-122088"
+tags:
+- "bokeh"
+- "bridge"
+- "city"
+- "dark"
+- "england"
+- "eye"
+- "london"
+- "night"
+- "photowalk"
+- "photowalklondon"
+- "pose"
+- "snapshot"
+- "uk"
+- "westminster"
+---
+<a href="/photos/2009/05/24/a-fleeting-glance"></a>

@@ -1,0 +1,27 @@
+---
+title: "Bus on the move"
+date: "2009-02-02 10:00:40"
+privacy: "public"
+image: "2009/02/02/bus-on-the-move/bus-on-the-move.jpg"
+views: "100"
+faves: "0"
+tags:
+- "via-pixelpipe"
+- "237"
+- "adverse"
+- "bus"
+- "cold"
+- "england"
+- "london"
+- "londonbus"
+- "post"
+- "postbox"
+- "red"
+- "snow"
+- "uk"
+- "uksnow"
+- "weather"
+- "winter"
+- "londonist"
+---
+Just to prove that some services are actually moving in London - an extra photo today :)<a href="/photos/2009/02/02/bus-on-the-move"></a>

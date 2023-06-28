@@ -1,0 +1,26 @@
+---
+title: "Gone Fishing"
+date: "2009-08-16 14:45:23"
+privacy: "public"
+image: "2009/08/16/gone-fishing/gone-fishing.jpg"
+views: "69"
+faves: "1"
+lat: "50712221"
+lng: "-1750001"
+tags:
+- "beach"
+- "bournemouth"
+- "dorset"
+- "england"
+- "fish"
+- "fishing"
+- "groyne"
+- "ocean"
+- "sea"
+- "sun"
+- "sunshine"
+- "uk"
+- "London"
+- "United Kingdom"
+---
+<a href="/photos/2009/08/17/gone-fishing" rel="nofollow"></a>

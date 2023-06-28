@@ -1,0 +1,28 @@
+---
+title: "It's as busy as Piccadilly Circus! Ooohh that's why?!"
+date: "2009-09-25 11:58:52"
+privacy: "private"
+image: "2009/09/25/it-s-as-busy-as-piccadilly-circus-ooohh-that-s-why/it-s-as-busy-as-piccadilly-circus-ooohh-that-s-why.jpg"
+views: "50"
+faves: "0"
+lat: "51510091"
+lng: "-134577"
+tags:
+- "159"
+- "bus"
+- "circus"
+- "england"
+- "icon"
+- "lights"
+- "london"
+- "lunchtime"
+- "motion"
+- "photowalk"
+- "piccadilly"
+- "sanyo"
+- "september"
+- "tdk"
+- "uk"
+- "piccadilly circus"
+---
+<a href="http://www.canid.co.uk" rel="nofollow">Darren</a> and I took a walk around London on Wednesday; and I was lucky enough to use his 16-35. Here's a shot of the iconic Piccadilly Circus at lunchtime (although I admit it will look a lot better in the dark and as winter's coming I'll have plenty of darkness to choose from!)<a href="/photos/2009/09/25/its-as-busy-as-piccadilly-circus-ooohh-thats-why" rel="nofollow"></a>

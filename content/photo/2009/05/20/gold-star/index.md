@@ -1,0 +1,27 @@
+---
+title: "Gold star"
+date: "2009-05-20 15:52:37"
+privacy: "public"
+image: "2009/05/20/gold-star/gold-star.jpg"
+views: "65"
+faves: "1"
+lat: "51496661"
+lng: "-169574"
+tags:
+- "via-pixelpipe"
+- "church"
+- "city"
+- "england"
+- "gold"
+- "kensington"
+- "chelsea"
+- "london"
+- "nightsbridge"
+- "photowalklondon"
+- "railings"
+- "rbkc"
+- "star"
+- "uk"
+- "kensington and chelsea"
+---
+<a href="/photos/2009/05/20/gold-star"></a>

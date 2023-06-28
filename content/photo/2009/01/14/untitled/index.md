@@ -1,0 +1,26 @@
+---
+title: "untitled"
+date: "2009-01-14 15:24:45"
+privacy: "public"
+image: "2009/01/14/untitled/untitled.jpg"
+views: "57"
+faves: "1"
+lat: "50873640"
+lng: "-742161"
+tags:
+- "4"
+- "135mm"
+- "classic"
+- "england"
+- "f2"
+- "ferodo"
+- "festival"
+- "speed"
+- "goodwood"
+- "mclaren"
+- "mercedes"
+- "orange"
+- "sussex"
+- "uk"
+---
+This is one of the early McLarens in the orange that stayed through the Marlboro years and continues (if a little day-glo) on to this day. Taken at the 2008 Goodwood Festival of Speed. I think this image fits in perfectly with my colour scheme over at <a href="http://www.phillprice.com">www.phillprice.com</a> :)<a href="/photos/2009/01/14/mclaren-4"></a>

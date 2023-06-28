@@ -1,0 +1,27 @@
+---
+title: "Talking to a brick wall"
+date: "2008-09-30 15:04:36"
+privacy: "public"
+image: "2008/09/30/talking-to-a-brick-wall/talking-to-a-brick-wall.jpg"
+views: "85"
+faves: "2"
+lat: "51506265"
+lng: "-198821"
+tags:
+- "england"
+- "london"
+- "londonflickrmeetups"
+- "nottinghill"
+- "Photowalk:London=20080927"
+- "photowalking:london092708"
+- "photowalking:london270908"
+- "photowalking092708"
+- "photowalking270908"
+- "pink"
+- "rose"
+- "uk"
+- "upcoming:event=1056297"
+- "wall"
+- "United Kingdom"
+---
+The only rose in the bush, and it's pointing to a wall, the poor this, not exactly great company, walls.<a href="/photos/2008/09/30/talking-to-a-brick-wall"></a>

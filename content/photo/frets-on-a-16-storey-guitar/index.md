@@ -1,0 +1,26 @@
+---
+title: "Frets on a 16 storey guitar"
+date: "2010-02-23 15:45:08"
+privacy: "private"
+image: "2010/02/23/frets-on-a-16-storey-guitar/frets-on-a-16-storey-guitar.jpg"
+views: "39"
+faves: "0"
+tags:
+- "angles"
+- "architecture"
+- "building"
+- "city"
+- "england"
+- "glass"
+- "london"
+- "monochrome"
+- "office"
+- "photowalk"
+- "september"
+- "sky"
+- "skyscraper"
+- "steel"
+- "tower"
+- "uk"
+---
+<a href="http://www.phillprice.com/2010/02/23/frets-on-a-16-storey-guitar" rel="nofollow"></a>

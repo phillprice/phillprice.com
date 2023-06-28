@@ -1,0 +1,26 @@
+---
+title: "I know it's in here somewhere!"
+date: "2009-09-05 15:14:42"
+privacy: "public"
+image: "2009/09/05/i-know-it-s-in-here-somewhere/i-know-it-s-in-here-somewhere.jpg"
+views: "122"
+faves: "3"
+lat: "51477686"
+lng: "-3156"
+tags:
+- "animal"
+- "autumn"
+- "england"
+- "fall"
+- "greenwich"
+- "leaves"
+- "london"
+- "londonflickrmeetups"
+- "meetup"
+- "october"
+- "squirrel"
+- "uk"
+- "upcoming:event=1022271"
+- "United Kingdom"
+---
+Autumn is rapidly upon us; soon scenes like this will be all over the country as the squirrels build their food stores (and their internal maps to find them) amazing when you consider I can lose my keys in a few square metres!<a href="/photos/2009/09/05/i-know-its-in-here-somewhere" rel="nofollow"></a>

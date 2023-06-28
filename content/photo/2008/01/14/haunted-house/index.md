@@ -1,0 +1,10 @@
+---
+title: "Haunted house"
+date: "2008-01-14 13:54:42"
+privacy: "public"
+image: "2008/01/14/haunted-house/haunted-house.jpg"
+views: "13"
+faves: "0"
+tags:
+---
+

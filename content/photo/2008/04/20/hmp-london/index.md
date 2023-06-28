@@ -1,0 +1,27 @@
+---
+title: "HMP London"
+date: "2008-04-20 03:47:04"
+privacy: "public"
+image: "2008/04/20/hmp-london/hmp-london.jpg"
+views: "75"
+faves: "0"
+lat: "51516728"
+lng: "-104906"
+tags:
+- "aprilchallenge"
+- "bill poster"
+- "city"
+- "england"
+- "entropy"
+- "graffite"
+- "hmp"
+- "london"
+- "monochrome"
+- "open prison"
+- "poster"
+- "prison"
+- "smithfields"
+- "typography"
+- "uk"
+---
+Sprouting up over London are these posters, which I admit made me smile. Maybe Liberty and privacy is the entropy these days? April challenge #20

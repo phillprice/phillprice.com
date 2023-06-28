@@ -1,0 +1,26 @@
+---
+title: "Sharp"
+date: "2009-03-06 14:58:20"
+privacy: "public"
+image: "2009/03/06/sharp/sharp.jpg"
+views: "51"
+faves: "0"
+lat: "51518283"
+lng: "-80767"
+tags:
+- "via-pixelpipe"
+- "4"
+- "city"
+- "england"
+- "facebookmeetup"
+- "february"
+- "frame"
+- "london"
+- "market"
+- "spitalfields"
+- "steel"
+- "uk"
+- "winter"
+- "United Kingdom"
+---
+<a href="/photos/2009/03/06/sharp-2"></a>
