@@ -2,7 +2,7 @@
 title: "bokeh frenzy"
 date: "2007-12-24 03:06:23"
 privacy: "public"
-image: "photo/bokeh-frenzy/bokeh-frenzy.jpg"
+image: "2007/12/24/bokeh-frenzy/bokeh-frenzy.jpg"
 views: "72"
 faves: "2"
 tags:

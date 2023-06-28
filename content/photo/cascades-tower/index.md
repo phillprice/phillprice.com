@@ -2,7 +2,7 @@
 title: "Cascades Tower"
 date: "2007-11-18 07:43:52"
 privacy: "public"
-image: "photo/cascades-tower/cascades-tower.jpg"
+image: "2007/11/18/cascades-tower/cascades-tower.jpg"
 views: "26"
 faves: "1"
 lat: "51504562"

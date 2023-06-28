@@ -2,7 +2,7 @@
 title: "orange bokeh tree"
 date: "2007-12-10 13:05:40"
 privacy: "public"
-image: "photo/orange-bokeh-tree/orange-bokeh-tree.jpg"
+image: "2007/12/10/orange-bokeh-tree/orange-bokeh-tree.jpg"
 views: "60"
 faves: "1"
 lat: "51503941"

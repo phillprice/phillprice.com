@@ -2,7 +2,7 @@
 title: "Canary Wharf"
 date: "2005-11-27 05:58:38"
 privacy: "public"
-image: "photo/canary-wharf/canary-wharf.jpg"
+image: "2005/11/27/canary-wharf/canary-wharf.jpg"
 views: "598"
 faves: "1"
 lat: "51503543"

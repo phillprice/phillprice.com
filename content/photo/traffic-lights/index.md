@@ -2,7 +2,7 @@
 title: "Traffic Lights"
 date: "2007-11-18 07:47:07"
 privacy: "public"
-image: "photo/traffic-lights/traffic-lights.jpg"
+image: "2007/11/18/traffic-lights/traffic-lights.jpg"
 views: "43"
 faves: "1"
 lat: "51504562"

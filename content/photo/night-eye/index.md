@@ -2,7 +2,7 @@
 title: "night eye"
 date: "2007-10-09 13:21:18"
 privacy: "public"
-image: "photo/night-eye/night-eye.jpg"
+image: "2007/10/09/night-eye/night-eye.jpg"
 views: "24"
 faves: "0"
 lat: "51507346"

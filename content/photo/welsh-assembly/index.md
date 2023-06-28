@@ -2,7 +2,7 @@
 title: "Welsh Assembly"
 date: "2006-11-06 10:20:03"
 privacy: "public"
-image: "photo/welsh-assembly/welsh-assembly.jpg"
+image: "2006/11/06/welsh-assembly/welsh-assembly.jpg"
 views: "46"
 faves: "0"
 lat: "51464542"

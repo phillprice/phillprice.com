@@ -2,7 +2,7 @@
 title: "Saluting Platform"
 date: "2005-03-02 09:02:05"
 privacy: "public"
-image: "photo/saluting-platform/saluting-platform.jpg"
+image: "2005/03/02/saluting-platform/saluting-platform.jpg"
 views: "47"
 faves: "0"
 lat: "50791000"

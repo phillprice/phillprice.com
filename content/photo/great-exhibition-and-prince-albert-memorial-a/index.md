@@ -2,7 +2,7 @@
 title: "Great Exhibition and Prince Albert Memorial (a)"
 date: "2007-11-18 12:29:54"
 privacy: "public"
-image: "photo/great-exhibition-and-prince-albert-memorial-a/great-exhibition-and-prince-albert-memorial-a.jpg"
+image: "2007/11/18/great-exhibition-and-prince-albert-memorial-a/great-exhibition-and-prince-albert-memorial-a.jpg"
 views: "14"
 faves: "1"
 lat: "51500431"

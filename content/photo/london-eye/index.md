@@ -2,7 +2,7 @@
 title: "London eye"
 date: "2007-12-14 14:48:58"
 privacy: "public"
-image: "photo/london-eye/london-eye.jpg"
+image: "2007/12/14/london-eye/london-eye.jpg"
 views: "39"
 faves: "2"
 lat: "51506441"

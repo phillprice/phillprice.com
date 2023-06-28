@@ -2,7 +2,7 @@
 title: "The city sleeps"
 date: "2007-11-23 10:37:41"
 privacy: "public"
-image: "photo/the-city-sleeps/the-city-sleeps.jpg"
+image: "2007/11/23/the-city-sleeps/the-city-sleeps.jpg"
 views: "68"
 faves: "1"
 lat: "51505977"

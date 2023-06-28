@@ -2,7 +2,7 @@
 title: "The dark drive home"
 date: "2007-12-28 02:00:30"
 privacy: "public"
-image: "photo/the-dark-drive-home/the-dark-drive-home.jpg"
+image: "2007/12/28/the-dark-drive-home/the-dark-drive-home.jpg"
 views: "26"
 faves: "1"
 lat: "50960967"

@@ -2,7 +2,7 @@
 title: "At the peak"
 date: "2008-12-17 16:18:24"
 privacy: "public"
-image: "photo/at-the-peak/at-the-peak.jpg"
+image: "2008/12/17/at-the-peak/at-the-peak.jpg"
 views: "85"
 faves: "2"
 tags:

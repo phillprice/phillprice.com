@@ -2,7 +2,7 @@
 title: "overkill"
 date: "2007-10-11 16:13:21"
 privacy: "public"
-image: "photo/overkill/overkill.jpg"
+image: "2007/10/11/overkill/overkill.jpg"
 views: "6"
 faves: "0"
 lat: "51503754"

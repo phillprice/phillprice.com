@@ -1,18 +1,16 @@
 ---
-title: "depth"
-date: "2008-01-03 02:12:07"
+title: "Depth"
+date: "2007-12-27 12:59:00"
 privacy: "public"
-image: "photo/depth/depth.jpg"
-views: "17"
-faves: "2"
-lat: "51507760"
-lng: "-123059"
+image: "2007/12/27/depth/depth.jpg"
+views: "10"
+faves: "0"
 tags:
-- "london"
-- "embankment"
+- "dorset"
+- "poole"
+- "quay"
+- "poolequay"
 - "england"
-- "night"
 - "uk"
-- "handheld"
 ---
 

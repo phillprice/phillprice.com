@@ -2,7 +2,7 @@
 title: "Conditions of access"
 date: "2007-11-22 12:42:12"
 privacy: "public"
-image: "photo/conditions-of-access/conditions-of-access.jpg"
+image: "2007/11/22/conditions-of-access/conditions-of-access.jpg"
 views: "17"
 faves: "0"
 lat: "51505039"

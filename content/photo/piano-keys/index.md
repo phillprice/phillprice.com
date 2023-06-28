@@ -2,7 +2,7 @@
 title: "Piano Keys"
 date: "2005-11-19 12:27:22"
 privacy: "public"
-image: "photo/piano-keys/piano-keys.jpg"
+image: "2005/11/19/piano-keys/piano-keys.jpg"
 views: "210"
 faves: "0"
 lat: "51513316"

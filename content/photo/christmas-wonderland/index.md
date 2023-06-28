@@ -2,7 +2,7 @@
 title: "Christmas Wonderland"
 date: "2007-11-25 23:49:22"
 privacy: "public"
-image: "photo/christmas-wonderland/christmas-wonderland.jpg"
+image: "2007/11/25/christmas-wonderland/christmas-wonderland.jpg"
 views: "20"
 faves: "0"
 lat: "51496043"

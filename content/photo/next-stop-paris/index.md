@@ -2,7 +2,7 @@
 title: "Next Stop Paris"
 date: "2007-11-25 01:58:49"
 privacy: "public"
-image: "photo/next-stop-paris/next-stop-paris.jpg"
+image: "2007/11/25/next-stop-paris/next-stop-paris.jpg"
 views: "15"
 faves: "0"
 lat: "51532027"

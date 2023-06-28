@@ -2,7 +2,7 @@
 title: "The Viewing Gallery"
 date: "2005-03-02 09:12:08"
 privacy: "public"
-image: "photo/the-viewing-gallery/the-viewing-gallery.jpg"
+image: "2005/03/02/the-viewing-gallery/the-viewing-gallery.jpg"
 views: "60"
 faves: "0"
 lat: "50791306"

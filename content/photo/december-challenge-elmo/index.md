@@ -2,7 +2,7 @@
 title: "December Challenge - Elmo"
 date: "2007-12-08 11:46:35"
 privacy: "public"
-image: "photo/december-challenge-elmo/december-challenge-elmo.jpg"
+image: "2007/12/08/december-challenge-elmo/december-challenge-elmo.jpg"
 views: "1257"
 faves: "6"
 tags:

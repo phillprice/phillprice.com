@@ -2,7 +2,7 @@
 title: "Duet"
 date: "2006-10-24 10:39:49"
 privacy: "public"
-image: "photo/duet/duet.jpg"
+image: "2006/10/24/duet/duet.jpg"
 views: "40"
 faves: "0"
 lat: "50724670"

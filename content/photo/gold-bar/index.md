@@ -2,7 +2,7 @@
 title: "gold bar"
 date: "2007-09-20 13:08:16"
 privacy: "public"
-image: "photo/gold-bar/gold-bar.jpg"
+image: "2007/09/20/gold-bar/gold-bar.jpg"
 views: "44"
 faves: "0"
 tags:

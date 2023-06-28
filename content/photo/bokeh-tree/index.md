@@ -2,7 +2,7 @@
 title: "bokeh tree"
 date: "2007-12-10 12:47:29"
 privacy: "public"
-image: "photo/bokeh-tree/bokeh-tree.jpg"
+image: "2007/12/10/bokeh-tree/bokeh-tree.jpg"
 views: "26"
 faves: "1"
 lat: "51504341"

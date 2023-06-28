@@ -2,7 +2,7 @@
 title: "lightship"
 date: "2006-11-06 10:37:39"
 privacy: "public"
-image: "photo/lightship/lightship.jpg"
+image: "2006/11/06/lightship/lightship.jpg"
 views: "62"
 faves: "0"
 lat: "51464542"

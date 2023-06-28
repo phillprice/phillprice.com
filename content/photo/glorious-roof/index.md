@@ -2,7 +2,7 @@
 title: "Glorious Roof"
 date: "2007-11-24 12:22:41"
 privacy: "public"
-image: "photo/glorious-roof/glorious-roof.jpg"
+image: "2007/11/24/glorious-roof/glorious-roof.jpg"
 views: "11"
 faves: "0"
 lat: "51532027"

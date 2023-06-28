@@ -2,7 +2,7 @@
 title: "Tare 22,600kg"
 date: "2007-11-18 07:45:55"
 privacy: "public"
-image: "photo/tare-22600kg/tare-22600kg.jpg"
+image: "2007/11/18/tare-22600kg/tare-22600kg.jpg"
 views: "36"
 faves: "4"
 lat: "51495114"

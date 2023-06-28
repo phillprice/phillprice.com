@@ -2,7 +2,7 @@
 title: "Taking a break"
 date: "2008-12-10 13:41:58"
 privacy: "public"
-image: "photo/taking-a-break/taking-a-break.jpg"
+image: "2008/12/10/taking-a-break/taking-a-break.jpg"
 views: "362"
 faves: "4"
 tags:

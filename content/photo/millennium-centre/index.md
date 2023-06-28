@@ -2,7 +2,7 @@
 title: "Millennium Centre"
 date: "2006-11-06 10:20:04"
 privacy: "public"
-image: "photo/millennium-centre/millennium-centre.jpg"
+image: "2006/11/06/millennium-centre/millennium-centre.jpg"
 views: "35"
 faves: "0"
 lat: "51464542"

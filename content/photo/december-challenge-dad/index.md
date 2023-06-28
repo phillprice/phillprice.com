@@ -2,7 +2,7 @@
 title: "December Challenge - Dad"
 date: "2007-12-27 13:04:34"
 privacy: "public"
-image: "photo/december-challenge-dad/december-challenge-dad.jpg"
+image: "2007/12/27/december-challenge-dad/december-challenge-dad.jpg"
 views: "16"
 faves: "0"
 tags:

@@ -2,7 +2,7 @@
 title: "Golden Flower"
 date: "2008-12-15 14:25:24"
 privacy: "public"
-image: "photo/golden-flower/golden-flower.jpg"
+image: "2008/12/15/golden-flower/golden-flower.jpg"
 views: "132"
 faves: "3"
 tags:

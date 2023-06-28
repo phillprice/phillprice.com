@@ -2,7 +2,7 @@
 title: "Lighting up the night"
 date: "2007-11-25 23:49:45"
 privacy: "public"
-image: "photo/lighting-up-the-night/lighting-up-the-night.jpg"
+image: "2007/11/25/lighting-up-the-night/lighting-up-the-night.jpg"
 views: "21"
 faves: "0"
 lat: "51499860"

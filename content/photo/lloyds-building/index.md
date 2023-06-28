@@ -2,7 +2,7 @@
 title: "Lloyds building"
 date: "2005-11-19 12:24:46"
 privacy: "public"
-image: "photo/lloyds-building/lloyds-building.jpg"
+image: "2005/11/19/lloyds-building/lloyds-building.jpg"
 views: "81"
 faves: "0"
 lat: "51513316"

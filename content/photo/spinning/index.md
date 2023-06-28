@@ -2,7 +2,7 @@
 title: "Spinning"
 date: "2008-12-08 05:50:33"
 privacy: "public"
-image: "photo/spinning/spinning.jpg"
+image: "2008/12/08/spinning/spinning.jpg"
 views: "474"
 faves: "2"
 tags:
@@ -29,4 +29,4 @@ tags:
 - "5d mkii"
 - "5d mk2"
 ---
-Here's the (permanent) merry go round just West of Hungerford Bridge. (FYI 1 second at F22 at ISO 640) - again completely untouched - hence the lack of level. Perhaps I should actually process them properly? - <a href="/photos/2008/12/08/spinning"></a>
+Here's the (permanent) merry go round just West of Hungerford Bridge. (FYI 1 second at F22 at ISO 640) - again completely untouched - hence the lack of level. Perhaps I should actually process them properly?<a href="/photos/2008/12/08/spinning"></a>

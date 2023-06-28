@@ -2,7 +2,7 @@
 title: "Portrait of an unknown man"
 date: "2008-12-08 15:21:43"
 privacy: "public"
-image: "photo/portrait-of-an-unknown-man/portrait-of-an-unknown-man.jpg"
+image: "2008/12/08/portrait-of-an-unknown-man/portrait-of-an-unknown-man.jpg"
 views: "366"
 faves: "2"
 tags:
@@ -24,4 +24,4 @@ tags:
 - "canon 5d mk2"
 - "canon 5d mkii"
 ---
-Straight from the 5D'II (as I'm calling it now) here's a portrait of an unknown man in sculpture, at the British Museum. Again ist's 70~mm f2.8 ISO 4000 macro. - <a href="/photos/2008/12/08/portrait-of-an-unknown-man"></a>
+Straight from the 5D'II (as I'm calling it now) here's a portrait of an unknown man in sculpture, at the British Museum. Again ist's 70~mm f2.8 ISO 4000 macro.<a href="/photos/2008/12/08/portrait-of-an-unknown-man"></a>

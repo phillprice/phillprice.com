@@ -2,7 +2,7 @@
 title: "Drunk"
 date: "2005-11-19 12:18:25"
 privacy: "public"
-image: "photo/drunk/drunk.jpg"
+image: "2005/11/19/drunk/drunk.jpg"
 views: "39"
 faves: "0"
 lat: "51513406"

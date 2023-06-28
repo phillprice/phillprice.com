@@ -2,7 +2,7 @@
 title: "golder leaf"
 date: "2007-10-13 08:46:30"
 privacy: "public"
-image: "photo/golder-leaf/golder-leaf.jpg"
+image: "2007/10/13/golder-leaf/golder-leaf.jpg"
 views: "10"
 faves: "0"
 tags:

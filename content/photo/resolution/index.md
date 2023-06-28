@@ -2,7 +2,7 @@
 title: "resolution"
 date: "2007-11-01 15:50:29"
 privacy: "public"
-image: "photo/resolution/resolution.jpg"
+image: "2007/11/01/resolution/resolution.jpg"
 views: "9"
 faves: "0"
 lat: "51515656"

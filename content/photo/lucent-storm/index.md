@@ -2,7 +2,7 @@
 title: "Lucent Storm"
 date: "2007-12-09 10:34:29"
 privacy: "public"
-image: "photo/lucent-storm/lucent-storm.jpg"
+image: "2007/12/09/lucent-storm/lucent-storm.jpg"
 views: "28"
 faves: "2"
 lat: "51492633"

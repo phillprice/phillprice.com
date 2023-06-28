@@ -2,7 +2,7 @@
 title: "misty mirror me"
 date: "2007-12-29 15:16:27"
 privacy: "public"
-image: "photo/misty-mirror-me/misty-mirror-me.jpg"
+image: "2007/12/29/misty-mirror-me/misty-mirror-me.jpg"
 views: "38"
 faves: "2"
 tags:

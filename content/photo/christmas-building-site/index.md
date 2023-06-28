@@ -2,7 +2,7 @@
 title: "christmas building site"
 date: "2006-12-16 12:15:19"
 privacy: "public"
-image: "photo/christmas-building-site/christmas-building-site.jpg"
+image: "2006/12/16/christmas-building-site/christmas-building-site.jpg"
 views: "52"
 faves: "0"
 lat: "51505817"

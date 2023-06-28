@@ -2,7 +2,7 @@
 title: "Gherkin garnish"
 date: "2005-11-19 12:21:45"
 privacy: "public"
-image: "photo/gherkin-garnish/gherkin-garnish.jpg"
+image: "2005/11/19/gherkin-garnish/gherkin-garnish.jpg"
 views: "72"
 faves: "0"
 lat: "51514471"

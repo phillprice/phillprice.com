@@ -2,7 +2,7 @@
 title: "Childhood Memories"
 date: "2007-09-16 06:01:46"
 privacy: "public"
-image: "photo/childhood-memories/childhood-memories.jpg"
+image: "2007/09/16/childhood-memories/childhood-memories.jpg"
 views: "70"
 faves: "0"
 tags:

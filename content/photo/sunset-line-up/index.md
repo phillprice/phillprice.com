@@ -2,7 +2,7 @@
 title: "sunset line up"
 date: "2007-12-16 01:13:11"
 privacy: "public"
-image: "photo/sunset-line-up/sunset-line-up.jpg"
+image: "2007/12/16/sunset-line-up/sunset-line-up.jpg"
 views: "15"
 faves: "1"
 tags:

@@ -2,7 +2,7 @@
 title: "spotlight"
 date: "2007-08-24 15:03:55"
 privacy: "public"
-image: "photo/spotlight/spotlight.jpg"
+image: "2007/08/24/spotlight/spotlight.jpg"
 views: "8"
 faves: "0"
 tags:

@@ -2,7 +2,7 @@
 title: "CocaCola"
 date: "2007-11-18 07:44:44"
 privacy: "public"
-image: "photo/cocacola/cocacola.jpg"
+image: "2007/11/18/cocacola/cocacola.jpg"
 views: "39"
 faves: "1"
 tags:

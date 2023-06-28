@@ -2,7 +2,7 @@
 title: "The wave of passengers"
 date: "2007-12-08 02:02:52"
 privacy: "public"
-image: "photo/the-wave-of-passengers/the-wave-of-passengers.jpg"
+image: "2007/12/08/the-wave-of-passengers/the-wave-of-passengers.jpg"
 views: "40"
 faves: "0"
 lat: "51503406"

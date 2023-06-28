@@ -2,7 +2,7 @@
 title: "light and dark"
 date: "2005-11-19 12:15:03"
 privacy: "public"
-image: "photo/light-and-dark/light-and-dark.jpg"
+image: "2005/11/19/light-and-dark/light-and-dark.jpg"
 views: "91"
 faves: "0"
 lat: "51513509"

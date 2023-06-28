@@ -2,7 +2,7 @@
 title: "Tower bridge"
 date: "2005-11-19 12:27:59"
 privacy: "public"
-image: "photo/tower-bridge/tower-bridge.jpg"
+image: "2005/11/19/tower-bridge/tower-bridge.jpg"
 views: "129"
 faves: "0"
 lat: "51507901"

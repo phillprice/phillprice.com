@@ -2,7 +2,7 @@
 title: "covered colour"
 date: "2007-11-25 14:53:48"
 privacy: "public"
-image: "photo/covered-colour/covered-colour.jpg"
+image: "2007/11/25/covered-colour/covered-colour.jpg"
 views: "8"
 faves: "0"
 lat: "51532027"

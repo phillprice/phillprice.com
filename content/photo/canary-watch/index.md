@@ -2,7 +2,7 @@
 title: "Canary Watch"
 date: "2007-08-02 14:30:01"
 privacy: "public"
-image: "photo/canary-watch/canary-watch.jpg"
+image: "2007/08/02/canary-watch/canary-watch.jpg"
 views: "29"
 faves: "0"
 lat: "51506709"

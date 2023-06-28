@@ -2,7 +2,7 @@
 title: "habitat"
 date: "2007-12-18 15:04:35"
 privacy: "public"
-image: "photo/habitat/habitat.jpg"
+image: "2007/12/18/habitat/habitat.jpg"
 views: "65"
 faves: "5"
 lat: "52629100"

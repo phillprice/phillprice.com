@@ -2,7 +2,7 @@
 title: "Materials"
 date: "2005-11-19 12:19:55"
 privacy: "public"
-image: "photo/materials/materials.jpg"
+image: "2005/11/19/materials/materials.jpg"
 views: "90"
 faves: "0"
 lat: "51515169"
@@ -22,4 +22,4 @@ tags:
 - "uk"
 - "england"
 ---
-I thought the old brick, the pavement, the railings and the glass of the Swiss Re building at 30 St Mary Axe - <a href="http://www.phillprice.com/2005/11/19/materials" rel="nofollow"></a>
+I thought the old brick, the pavement, the railings and the glass of the Swiss Re building at 30 St Mary Axe<a href="http://www.phillprice.com/2005/11/19/materials" rel="nofollow"></a>

@@ -1,25 +1,19 @@
 ---
 title: "southbank"
-date: "2007-10-09 15:05:23"
+date: "2005-11-10 22:43:26"
 privacy: "public"
-image: "photo/southbank/southbank.jpg"
-views: "14"
+image: "2005/11/10/southbank/southbank.jpg"
+views: "69"
 faves: "0"
-lat: "51506114"
-lng: "-119433"
+lat: "51509603"
+lng: "-117588"
 tags:
-- "southbank"
 - "london"
-- "stpauls"
-- "tower42"
-- "gherkin"
-- "waterloo"
-- "waterloobridge"
-- "bridge"
+- "southwak"
 - "thames"
-- "river"
-- "riverthames"
-- "tower"
-- "42"
+- "night"
+- "uk"
+- "england"
 ---
-taken from hungerford bridge on the way from the office over to Waterloo tonight
+blurrily last night
+

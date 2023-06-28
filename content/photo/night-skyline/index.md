@@ -2,7 +2,7 @@
 title: "night skyline"
 date: "2007-10-09 15:03:51"
 privacy: "public"
-image: "photo/night-skyline/night-skyline.jpg"
+image: "2007/10/09/night-skyline/night-skyline.jpg"
 views: "25"
 faves: "0"
 lat: "51506712"

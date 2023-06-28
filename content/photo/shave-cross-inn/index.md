@@ -2,7 +2,7 @@
 title: "Shave Cross Inn"
 date: "2006-12-10 14:10:52"
 privacy: "public"
-image: "photo/shave-cross-inn/shave-cross-inn.jpg"
+image: "2006/12/10/shave-cross-inn/shave-cross-inn.jpg"
 views: "15"
 faves: "0"
 lat: "50778806"

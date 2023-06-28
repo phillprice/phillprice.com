@@ -2,7 +2,7 @@
 title: "Wight Link Ferries"
 date: "2005-03-02 09:26:33"
 privacy: "public"
-image: "photo/wight-link-ferries/wight-link-ferries.jpg"
+image: "2005/03/02/wight-link-ferries/wight-link-ferries.jpg"
 views: "163"
 faves: "1"
 lat: "50793701"

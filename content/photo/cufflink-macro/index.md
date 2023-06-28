@@ -2,7 +2,7 @@
 title: "cufflink macro"
 date: "2007-10-09 13:20:35"
 privacy: "public"
-image: "photo/cufflink-macro/cufflink-macro.jpg"
+image: "2007/10/09/cufflink-macro/cufflink-macro.jpg"
 views: "17"
 faves: "0"
 tags:

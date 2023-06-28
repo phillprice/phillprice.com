@@ -2,7 +2,7 @@
 title: "West India Gold"
 date: "2007-11-18 03:09:17"
 privacy: "public"
-image: "photo/west-india-gold/west-india-gold.jpg"
+image: "2007/11/18/west-india-gold/west-india-gold.jpg"
 views: "10"
 faves: "2"
 lat: "51506952"

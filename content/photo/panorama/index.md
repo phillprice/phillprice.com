@@ -2,7 +2,7 @@
 title: "Panorama"
 date: "2006-10-24 10:45:03"
 privacy: "public"
-image: "photo/panorama/panorama.jpg"
+image: "2006/10/24/panorama/panorama.jpg"
 views: "57"
 faves: "0"
 lat: "51505303"

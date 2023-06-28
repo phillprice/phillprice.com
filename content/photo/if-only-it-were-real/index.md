@@ -2,7 +2,7 @@
 title: "If only it were real!"
 date: "2007-09-29 09:42:43"
 privacy: "public"
-image: "photo/if-only-it-were-real/if-only-it-were-real.jpg"
+image: "2007/09/29/if-only-it-were-real/if-only-it-were-real.jpg"
 views: "81"
 faves: "0"
 lat: "51512421"

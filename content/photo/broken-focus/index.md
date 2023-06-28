@@ -2,7 +2,7 @@
 title: "Broken focus"
 date: "2007-10-22 12:40:23"
 privacy: "public"
-image: "photo/broken-focus/broken-focus.jpg"
+image: "2007/10/22/broken-focus/broken-focus.jpg"
 views: "9"
 faves: "0"
 tags:

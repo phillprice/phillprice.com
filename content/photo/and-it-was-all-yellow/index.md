@@ -2,7 +2,7 @@
 title: "and it was all yellow"
 date: "2007-11-20 12:02:53"
 privacy: "public"
-image: "photo/and-it-was-all-yellow/and-it-was-all-yellow.jpg"
+image: "2007/11/20/and-it-was-all-yellow/and-it-was-all-yellow.jpg"
 views: "54"
 faves: "4"
 lat: "51505333"
@@ -23,4 +23,4 @@ tags:
 - "tower"
 - "skyscraper"
 ---
-gorgeous mist - no change in warmth from the real thing tonight - I could take this photo all day every day. probbaly the most photographed shot in Canry Wharf, this time as a square. - <a href="/photos/2007/11/22/photo-thursday-23"></a>
+gorgeous mist - no change in warmth from the real thing tonight - I could take this photo all day every day. probbaly the most photographed shot in Canry Wharf, this time as a square.<a href="/photos/2007/11/22/photo-thursday-23"></a>

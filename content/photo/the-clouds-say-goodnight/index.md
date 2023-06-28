@@ -2,7 +2,7 @@
 title: "The clouds say goodnight"
 date: "2007-12-15 11:34:39"
 privacy: "public"
-image: "photo/the-clouds-say-goodnight/the-clouds-say-goodnight.jpg"
+image: "2007/12/15/the-clouds-say-goodnight/the-clouds-say-goodnight.jpg"
 views: "13"
 faves: "0"
 tags:

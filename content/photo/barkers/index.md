@@ -2,7 +2,7 @@
 title: "barkers"
 date: "2007-10-13 08:45:34"
 privacy: "public"
-image: "photo/barkers/barkers.jpg"
+image: "2007/10/13/barkers/barkers.jpg"
 views: "12"
 faves: "0"
 lat: "51502458"

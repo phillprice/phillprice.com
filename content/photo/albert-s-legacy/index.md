@@ -2,7 +2,7 @@
 title: "Albert's Legacy"
 date: "2007-11-26 14:31:12"
 privacy: "public"
-image: "photo/albert-s-legacy/albert-s-legacy.jpg"
+image: "2007/11/26/albert-s-legacy/albert-s-legacy.jpg"
 views: "22"
 faves: "1"
 lat: "51501075"

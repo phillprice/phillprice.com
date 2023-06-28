@@ -2,7 +2,7 @@
 title: "Grimaldi Forum"
 date: "2007-11-10 13:02:24"
 privacy: "public"
-image: "photo/grimaldi-forum/grimaldi-forum.jpg"
+image: "2007/11/10/grimaldi-forum/grimaldi-forum.jpg"
 views: "29"
 faves: "1"
 lat: "43743630"

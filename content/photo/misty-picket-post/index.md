@@ -2,7 +2,7 @@
 title: "Misty Picket Post"
 date: "2007-12-22 11:25:50"
 privacy: "public"
-image: "photo/misty-picket-post/misty-picket-post.jpg"
+image: "2007/12/22/misty-picket-post/misty-picket-post.jpg"
 views: "44"
 faves: "2"
 lat: "50848690"

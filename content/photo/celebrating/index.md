@@ -2,7 +2,7 @@
 title: "Celebrating"
 date: "2008-12-14 15:49:56"
 privacy: "public"
-image: "photo/celebrating/celebrating.jpg"
+image: "2008/12/14/celebrating/celebrating.jpg"
 views: "264"
 faves: "7"
 tags:

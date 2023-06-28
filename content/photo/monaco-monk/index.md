@@ -2,7 +2,7 @@
 title: "Monaco Monk"
 date: "2007-11-08 13:53:47"
 privacy: "public"
-image: "photo/monaco-monk/monaco-monk.jpg"
+image: "2007/11/08/monaco-monk/monaco-monk.jpg"
 views: "26"
 faves: "0"
 lat: "43731359"

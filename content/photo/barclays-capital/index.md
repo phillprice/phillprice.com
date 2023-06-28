@@ -2,7 +2,7 @@
 title: "Barclays Capital"
 date: "2007-12-07 16:48:16"
 privacy: "public"
-image: "photo/barclays-capital/barclays-capital.jpg"
+image: "2007/12/07/barclays-capital/barclays-capital.jpg"
 views: "152"
 faves: "0"
 lat: "51503687"

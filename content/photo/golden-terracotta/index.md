@@ -2,7 +2,7 @@
 title: "golden terracotta"
 date: "2007-10-08 10:40:41"
 privacy: "public"
-image: "photo/golden-terracotta/golden-terracotta.jpg"
+image: "2007/10/08/golden-terracotta/golden-terracotta.jpg"
 views: "18"
 faves: "0"
 tags:

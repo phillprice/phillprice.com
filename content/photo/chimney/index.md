@@ -1,18 +1,11 @@
 ---
 title: "chimney"
-date: "2008-01-13 11:38:37"
-privacy: "public"
-image: "photo/chimney/chimney.jpg"
-views: "8"
+date: "2006-08-24 12:49:19"
+privacy: "friend & family"
+image: "2006/08/24/chimney/chimney.jpg"
+views: "9"
 faves: "0"
 tags:
-- "Photowalk:London=20080112 photowalking20080112london upcoming:event=381367 london england uk Photowalk:London=20080112"
-- "photowalking20080112london"
-- "upcoming:event=381367"
-- "Photowalk:London=20080112"
-- "london"
-- "england"
-- "photowalk"
-- "uk"
+- "chimney"
 ---
 

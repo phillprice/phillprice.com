@@ -2,7 +2,7 @@
 title: "last of the sun"
 date: "2007-10-17 10:39:39"
 privacy: "public"
-image: "photo/last-of-the-sun/last-of-the-sun.jpg"
+image: "2007/10/17/last-of-the-sun/last-of-the-sun.jpg"
 views: "25"
 faves: "0"
 lat: "51502451"

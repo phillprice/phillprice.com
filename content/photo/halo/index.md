@@ -2,7 +2,7 @@
 title: "halo"
 date: "2007-10-02 13:47:55"
 privacy: "public"
-image: "photo/halo/halo.jpg"
+image: "2007/10/02/halo/halo.jpg"
 views: "17"
 faves: "0"
 lat: "51503847"

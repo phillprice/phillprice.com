@@ -2,7 +2,7 @@
 title: "green cloud?"
 date: "2007-09-21 14:21:44"
 privacy: "public"
-image: "photo/green-cloud/green-cloud.jpg"
+image: "2007/09/21/green-cloud/green-cloud.jpg"
 views: "44"
 faves: "0"
 tags:

@@ -2,7 +2,7 @@
 title: "Stone meets Iron"
 date: "2007-11-24 12:18:39"
 privacy: "public"
-image: "photo/stone-meets-iron/stone-meets-iron.jpg"
+image: "2007/11/24/stone-meets-iron/stone-meets-iron.jpg"
 views: "26"
 faves: "0"
 lat: "51532027"

@@ -2,7 +2,7 @@
 title: "me"
 date: "2007-08-27 11:23:13"
 privacy: "public"
-image: "photo/me/me.jpg"
+image: "2007/08/27/me/me.jpg"
 views: "17"
 faves: "0"
 tags:

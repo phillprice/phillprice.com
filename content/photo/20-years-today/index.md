@@ -2,7 +2,7 @@
 title: "20 years today"
 date: "2007-10-16 00:14:19"
 privacy: "public"
-image: "photo/20-years-today/20-years-today.jpg"
+image: "2007/10/16/20-years-today/20-years-today.jpg"
 views: "52"
 faves: "0"
 lat: "51561358"

@@ -2,7 +2,7 @@
 title: "Neon Wiggles"
 date: "2007-12-07 16:51:47"
 privacy: "public"
-image: "photo/neon-wiggles/neon-wiggles.jpg"
+image: "2007/12/07/neon-wiggles/neon-wiggles.jpg"
 views: "32"
 faves: "0"
 lat: "51504158"

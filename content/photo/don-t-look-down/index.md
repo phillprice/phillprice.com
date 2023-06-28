@@ -2,7 +2,7 @@
 title: "Don't look down"
 date: "2008-12-21 13:28:20"
 privacy: "public"
-image: "photo/don-t-look-down/don-t-look-down.jpg"
+image: "2008/12/21/don-t-look-down/don-t-look-down.jpg"
 views: "65"
 faves: "1"
 tags:

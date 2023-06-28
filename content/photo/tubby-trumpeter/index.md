@@ -2,7 +2,7 @@
 title: "Tubby Trumpeter"
 date: "2008-12-16 14:23:06"
 privacy: "public"
-image: "photo/tubby-trumpeter/tubby-trumpeter.jpg"
+image: "2008/12/16/tubby-trumpeter/tubby-trumpeter.jpg"
 views: "70"
 faves: "2"
 tags:

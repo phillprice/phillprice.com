@@ -2,7 +2,7 @@
 title: "Krypto-light"
 date: "2007-08-02 15:13:10"
 privacy: "public"
-image: "photo/krypto-light/krypto-light.jpg"
+image: "2007/08/02/krypto-light/krypto-light.jpg"
 views: "24"
 faves: "0"
 lat: "51503567"

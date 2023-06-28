@@ -2,7 +2,7 @@
 title: "London at Lunch"
 date: "2007-09-26 13:42:36"
 privacy: "public"
-image: "photo/london-at-lunch/london-at-lunch.jpg"
+image: "2007/09/26/london-at-lunch/london-at-lunch.jpg"
 views: "16"
 faves: "0"
 lat: "51505977"

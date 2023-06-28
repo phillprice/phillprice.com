@@ -2,7 +2,7 @@
 title: "Mighty engineers"
 date: "2008-12-06 03:20:17"
 privacy: "public"
-image: "photo/mighty-engineers/mighty-engineers.jpg"
+image: "2008/12/06/mighty-engineers/mighty-engineers.jpg"
 views: "836"
 faves: "8"
 tags:
@@ -30,4 +30,4 @@ tags:
 - "hungerford bridge"
 - "Featured on  adidap.com"
 ---
-Sort of wishing I didn't go up to 6400, but the 4000 stuff is awesome and this could quickly be cleaned up with NoiseNinja and has the same noise look of 400 to my eyes. - <a href="/photos/2008/12/06/mighty-engineers"></a>
+Sort of wishing I didn't go up to 6400, but the 4000 stuff is awesome and this could quickly be cleaned up with NoiseNinja and has the same noise look of 400 to my eyes.<a href="/photos/2008/12/06/mighty-engineers"></a>

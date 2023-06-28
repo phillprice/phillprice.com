@@ -2,7 +2,7 @@
 title: "Purple Sunset"
 date: "2007-12-04 11:34:02"
 privacy: "public"
-image: "photo/purple-sunset/purple-sunset.jpg"
+image: "2007/12/04/purple-sunset/purple-sunset.jpg"
 views: "52"
 faves: "0"
 lat: "51502451"

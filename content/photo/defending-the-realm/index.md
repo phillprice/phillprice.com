@@ -2,7 +2,7 @@
 title: "Defending the Realm"
 date: "2005-03-02 09:19:31"
 privacy: "public"
-image: "photo/defending-the-realm/defending-the-realm.jpg"
+image: "2005/03/02/defending-the-realm/defending-the-realm.jpg"
 views: "70"
 faves: "1"
 lat: "50790222"

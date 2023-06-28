@@ -2,7 +2,7 @@
 title: "shadow"
 date: "2007-08-03 01:17:53"
 privacy: "public"
-image: "photo/shadow/shadow.jpg"
+image: "2007/08/03/shadow/shadow.jpg"
 views: "111"
 faves: "2"
 lat: "51506445"

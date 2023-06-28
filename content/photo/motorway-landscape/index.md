@@ -2,7 +2,7 @@
 title: "motorway landscape"
 date: "2007-12-15 11:37:30"
 privacy: "public"
-image: "photo/motorway-landscape/motorway-landscape.jpg"
+image: "2007/12/15/motorway-landscape/motorway-landscape.jpg"
 views: "13"
 faves: "0"
 tags:

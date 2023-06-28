@@ -1,13 +1,22 @@
 ---
 title: "Nelson"
-date: "2008-02-10 23:33:25"
+date: "2007-12-13 00:02:43"
 privacy: "public"
-image: "photo/nelson/nelson.jpg"
-views: "77"
+image: "2007/12/13/nelson/nelson.jpg"
+views: "46"
 faves: "1"
-lat: "51507877"
-lng: "-126814"
+lat: "51507854"
+lng: "-126782"
 tags:
+- "nelson"
+- "lordneslon"
+- "trafalgar"
+- "trafalgarsquare"
+- "london"
+- "night"
+- "england"
+- "uk"
+- "statue"
+- "podium"
 ---
-Standing alone in a painted sky
-
+Lord Nelson towers over Trafalgar square - keeping the revellers in check.

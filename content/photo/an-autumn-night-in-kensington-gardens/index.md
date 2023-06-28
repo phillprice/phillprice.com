@@ -2,7 +2,7 @@
 title: "An Autumn Night in Kensington Gardens"
 date: "2007-11-25 23:52:23"
 privacy: "public"
-image: "photo/an-autumn-night-in-kensington-gardens/an-autumn-night-in-kensington-gardens.jpg"
+image: "2007/11/25/an-autumn-night-in-kensington-gardens/an-autumn-night-in-kensington-gardens.jpg"
 views: "27"
 faves: "1"
 lat: "51501673"

@@ -2,7 +2,7 @@
 title: "Majesty"
 date: "2008-12-11 14:44:05"
 privacy: "public"
-image: "photo/majesty/majesty.jpg"
+image: "2008/12/11/majesty/majesty.jpg"
 views: "506"
 faves: "12"
 tags:

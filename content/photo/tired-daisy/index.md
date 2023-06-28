@@ -2,7 +2,7 @@
 title: "tired daisy"
 date: "2007-09-22 03:10:36"
 privacy: "public"
-image: "photo/tired-daisy/tired-daisy.jpg"
+image: "2007/09/22/tired-daisy/tired-daisy.jpg"
 views: "27"
 faves: "0"
 tags:

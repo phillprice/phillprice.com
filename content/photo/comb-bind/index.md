@@ -2,7 +2,7 @@
 title: "Comb bind"
 date: "2005-11-19 12:26:54"
 privacy: "public"
-image: "photo/comb-bind/comb-bind.jpg"
+image: "2005/11/19/comb-bind/comb-bind.jpg"
 views: "86"
 faves: "0"
 lat: "51513316"

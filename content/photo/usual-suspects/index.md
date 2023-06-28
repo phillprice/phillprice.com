@@ -2,7 +2,7 @@
 title: "usual suspects"
 date: "2007-09-08 15:48:40"
 privacy: "public"
-image: "photo/usual-suspects/usual-suspects.jpg"
+image: "2007/09/08/usual-suspects/usual-suspects.jpg"
 views: "25"
 faves: "0"
 tags:

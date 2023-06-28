@@ -2,7 +2,7 @@
 title: "Chilling with a paper on a Sunday afternoon"
 date: "2008-12-02 14:29:30"
 privacy: "public"
-image: "photo/chilling-with-a-paper-on-a-sunday-afternoon/chilling-with-a-paper-on-a-sunday-afternoon.jpg"
+image: "2008/12/02/chilling-with-a-paper-on-a-sunday-afternoon/chilling-with-a-paper-on-a-sunday-afternoon.jpg"
 views: "76"
 faves: "0"
 tags:

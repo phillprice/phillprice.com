@@ -2,7 +2,7 @@
 title: "Standing Tall"
 date: "2007-11-26 14:29:22"
 privacy: "public"
-image: "photo/standing-tall/standing-tall.jpg"
+image: "2007/11/26/standing-tall/standing-tall.jpg"
 views: "11"
 faves: "0"
 lat: "51501075"

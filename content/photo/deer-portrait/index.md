@@ -2,7 +2,7 @@
 title: "Deer Portrait"
 date: "2007-01-20 12:01:43"
 privacy: "public"
-image: "photo/deer-portrait/deer-portrait.jpg"
+image: "2007/01/20/deer-portrait/deer-portrait.jpg"
 views: "99"
 faves: "1"
 lat: "51452910"

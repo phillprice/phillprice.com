@@ -2,7 +2,7 @@
 title: "Lyme Regis"
 date: "2006-12-10 14:56:18"
 privacy: "public"
-image: "photo/lyme-regis/lyme-regis.jpg"
+image: "2006/12/10/lyme-regis/lyme-regis.jpg"
 views: "40"
 faves: "0"
 lat: "50719395"

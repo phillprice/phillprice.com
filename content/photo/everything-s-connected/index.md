@@ -2,7 +2,7 @@
 title: "Everything's connected"
 date: "2008-12-05 15:23:46"
 privacy: "public"
-image: "photo/everything-s-connected/everything-s-connected.jpg"
+image: "2008/12/05/everything-s-connected/everything-s-connected.jpg"
 views: "662"
 faves: "5"
 tags:
@@ -23,4 +23,4 @@ tags:
 - "canon 5d mk2"
 - "canon 5d mkii"
 ---
-Here's a macro shot from the 5D at ISO 4000, the sun set 40 minutes ago! This is straight out of the camera - only metadata added. - <a href="/photos/2008/12/29/my-workflow-part-5-extra-metadata"></a>
+Here's a macro shot from the 5D at ISO 4000, the sun set 40 minutes ago! This is straight out of the camera - only metadata added.<a href="/photos/2008/12/29/my-workflow-part-5-extra-metadata"></a>

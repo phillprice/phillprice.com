@@ -2,7 +2,7 @@
 title: "London eye from Waterloo Bridge"
 date: "2005-02-14 09:55:09"
 privacy: "public"
-image: "photo/london-eye-from-waterloo-bridge/london-eye-from-waterloo-bridge.jpg"
+image: "2005/02/14/london-eye-from-waterloo-bridge/london-eye-from-waterloo-bridge.jpg"
 views: "118"
 faves: "1"
 lat: "51505905"

@@ -2,7 +2,7 @@
 title: "Bonjour"
 date: "2007-11-24 12:19:53"
 privacy: "public"
-image: "photo/bonjour/bonjour.jpg"
+image: "2007/11/24/bonjour/bonjour.jpg"
 views: "35"
 faves: "0"
 lat: "51532027"

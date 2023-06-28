@@ -2,7 +2,7 @@
 title: "Norwegian Church /  Arts Centre"
 date: "2006-11-06 10:37:39"
 privacy: "public"
-image: "photo/norwegian-church-arts-centre/norwegian-church-arts-centre.jpg"
+image: "2006/11/06/norwegian-church-arts-centre/norwegian-church-arts-centre.jpg"
 views: "45"
 faves: "0"
 lat: "51464542"

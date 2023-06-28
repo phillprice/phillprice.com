@@ -2,7 +2,7 @@
 title: "No Waiting"
 date: "2005-11-19 12:14:37"
 privacy: "public"
-image: "photo/no-waiting/no-waiting.jpg"
+image: "2005/11/19/no-waiting/no-waiting.jpg"
 views: "76"
 faves: "0"
 lat: "51513509"

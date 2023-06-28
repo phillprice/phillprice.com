@@ -2,7 +2,7 @@
 title: "Canary Sunrise"
 date: "2007-11-17 14:50:38"
 privacy: "public"
-image: "photo/canary-sunrise/canary-sunrise.jpg"
+image: "2007/11/17/canary-sunrise/canary-sunrise.jpg"
 views: "15"
 faves: "0"
 lat: "51508719"

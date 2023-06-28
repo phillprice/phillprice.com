@@ -1,14 +1,14 @@
 ---
 title: "buttercup"
-date: "2007-09-10 12:16:20"
+date: "2006-08-24 12:49:19"
 privacy: "public"
-image: "photo/buttercup/buttercup.jpg"
-views: "66"
+image: "2006/08/24/buttercup/buttercup.jpg"
+views: "31"
 faves: "0"
 tags:
-- "buttercup"
 - "yellow"
 - "macro"
+- "buttercup"
 - "flower"
 ---
-alone, bright and fragile - like us all.
+

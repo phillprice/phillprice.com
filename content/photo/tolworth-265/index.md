@@ -2,7 +2,7 @@
 title: "Tolworth 265"
 date: "2008-12-01 14:34:42"
 privacy: "public"
-image: "photo/tolworth-265/tolworth-265.jpg"
+image: "2008/12/01/tolworth-265/tolworth-265.jpg"
 views: "111"
 faves: "0"
 tags:

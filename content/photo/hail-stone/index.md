@@ -2,7 +2,7 @@
 title: "Hail stone"
 date: "2005-03-02 09:16:20"
 privacy: "public"
-image: "photo/hail-stone/hail-stone.jpg"
+image: "2005/03/02/hail-stone/hail-stone.jpg"
 views: "266"
 faves: "3"
 lat: "50789415"

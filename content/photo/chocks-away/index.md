@@ -2,7 +2,7 @@
 title: "Chocks away!"
 date: "2008-12-13 15:16:20"
 privacy: "public"
-image: "photo/chocks-away/chocks-away.jpg"
+image: "2008/12/13/chocks-away/chocks-away.jpg"
 views: "220"
 faves: "6"
 tags:

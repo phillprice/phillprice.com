@@ -2,7 +2,7 @@
 title: "Mum and Dad"
 date: "2006-09-30 06:25:54"
 privacy: "public"
-image: "photo/mum-and-dad/mum-and-dad.jpg"
+image: "2006/09/30/mum-and-dad/mum-and-dad.jpg"
 views: "59"
 faves: "0"
 lat: "50736007"

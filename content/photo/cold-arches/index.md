@@ -2,7 +2,7 @@
 title: "cold arches"
 date: "2007-11-25 02:01:03"
 privacy: "public"
-image: "photo/cold-arches/cold-arches.jpg"
+image: "2007/11/25/cold-arches/cold-arches.jpg"
 views: "41"
 faves: "0"
 lat: "51532027"

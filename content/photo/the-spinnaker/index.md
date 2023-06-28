@@ -2,7 +2,7 @@
 title: "The Spinnaker"
 date: "2005-03-02 09:24:44"
 privacy: "public"
-image: "photo/the-spinnaker/the-spinnaker.jpg"
+image: "2005/03/02/the-spinnaker/the-spinnaker.jpg"
 views: "84"
 faves: "0"
 lat: "50795349"

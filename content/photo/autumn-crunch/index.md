@@ -2,7 +2,7 @@
 title: "Autumn Crunch"
 date: "2007-10-18 13:09:21"
 privacy: "public"
-image: "photo/autumn-crunch/autumn-crunch.jpg"
+image: "2007/10/18/autumn-crunch/autumn-crunch.jpg"
 views: "5"
 faves: "0"
 lat: "51478670"

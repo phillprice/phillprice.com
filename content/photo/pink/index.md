@@ -2,7 +2,7 @@
 title: "pink"
 date: "2007-08-02 17:21:34"
 privacy: "public"
-image: "photo/pink/pink.jpg"
+image: "2007/08/02/pink/pink.jpg"
 views: "5"
 faves: "0"
 tags:

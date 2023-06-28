@@ -2,7 +2,7 @@
 title: "Norwich Castle"
 date: "2007-12-19 11:49:24"
 privacy: "public"
-image: "photo/norwich-castle/norwich-castle.jpg"
+image: "2007/12/19/norwich-castle/norwich-castle.jpg"
 views: "42"
 faves: "2"
 lat: "52627775"

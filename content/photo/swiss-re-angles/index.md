@@ -2,7 +2,7 @@
 title: "Swiss Re angles"
 date: "2005-11-19 12:23:25"
 privacy: "public"
-image: "photo/swiss-re-angles/swiss-re-angles.jpg"
+image: "2005/11/19/swiss-re-angles/swiss-re-angles.jpg"
 views: "108"
 faves: "0"
 lat: "51514471"

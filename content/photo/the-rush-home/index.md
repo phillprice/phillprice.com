@@ -2,7 +2,7 @@
 title: "The rush home"
 date: "2007-11-23 10:39:27"
 privacy: "public"
-image: "photo/the-rush-home/the-rush-home.jpg"
+image: "2007/11/23/the-rush-home/the-rush-home.jpg"
 views: "25"
 faves: "3"
 lat: "51507320"

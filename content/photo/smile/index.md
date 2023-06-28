@@ -2,7 +2,7 @@
 title: "Smile"
 date: "2005-12-06 11:38:59"
 privacy: "public"
-image: "photo/smile/smile.jpg"
+image: "2005/12/06/smile/smile.jpg"
 views: "350"
 faves: "1"
 tags:

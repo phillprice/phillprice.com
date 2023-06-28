@@ -2,7 +2,7 @@
 title: "Drivetime Decisions"
 date: "2007-11-28 12:45:20"
 privacy: "public"
-image: "photo/drivetime-decisions/drivetime-decisions.jpg"
+image: "2007/11/28/drivetime-decisions/drivetime-decisions.jpg"
 views: "33"
 faves: "0"
 lat: "51504057"

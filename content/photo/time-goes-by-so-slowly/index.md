@@ -2,7 +2,7 @@
 title: "time goes by ... so slowly"
 date: "2007-10-11 16:28:42"
 privacy: "public"
-image: "photo/time-goes-by-so-slowly/time-goes-by-so-slowly.jpg"
+image: "2007/10/11/time-goes-by-so-slowly/time-goes-by-so-slowly.jpg"
 views: "61"
 faves: "1"
 lat: "51504128"

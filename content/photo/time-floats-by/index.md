@@ -2,7 +2,7 @@
 title: "time floats by"
 date: "2007-10-02 13:35:24"
 privacy: "public"
-image: "photo/time-floats-by/time-floats-by.jpg"
+image: "2007/10/02/time-floats-by/time-floats-by.jpg"
 views: "47"
 faves: "4"
 lat: "51504558"

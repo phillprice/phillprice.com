@@ -2,7 +2,7 @@
 title: "Natural Explosion"
 date: "2007-12-29 05:21:59"
 privacy: "public"
-image: "photo/natural-explosion/natural-explosion.jpg"
+image: "2007/12/29/natural-explosion/natural-explosion.jpg"
 views: "6"
 faves: "0"
 tags:

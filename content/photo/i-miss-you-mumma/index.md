@@ -2,7 +2,7 @@
 title: "I Miss you Mumma"
 date: "2007-08-29 00:04:14"
 privacy: "public"
-image: "photo/i-miss-you-mumma/i-miss-you-mumma.jpg"
+image: "2007/08/29/i-miss-you-mumma/i-miss-you-mumma.jpg"
 views: "36"
 faves: "0"
 lat: "50719340"

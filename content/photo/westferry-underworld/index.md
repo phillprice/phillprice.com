@@ -2,7 +2,7 @@
 title: "Westferry underworld"
 date: "2007-12-03 11:13:03"
 privacy: "public"
-image: "photo/westferry-underworld/westferry-underworld.jpg"
+image: "2007/12/03/westferry-underworld/westferry-underworld.jpg"
 views: "46"
 faves: "1"
 lat: "51506391"

@@ -2,7 +2,7 @@
 title: "Waitrose"
 date: "2007-12-07 16:50:00"
 privacy: "public"
-image: "photo/waitrose/waitrose.jpg"
+image: "2007/12/07/waitrose/waitrose.jpg"
 views: "36"
 faves: "0"
 lat: "51504381"

@@ -2,7 +2,7 @@
 title: "London at night"
 date: "2007-10-09 13:20:55"
 privacy: "public"
-image: "photo/london-at-night/london-at-night.jpg"
+image: "2007/10/09/london-at-night/london-at-night.jpg"
 views: "95"
 faves: "5"
 lat: "51507346"

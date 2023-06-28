@@ -2,7 +2,7 @@
 title: "Look up"
 date: "2008-12-22 16:05:38"
 privacy: "public"
-image: "photo/look-up/look-up.jpg"
+image: "2008/12/22/look-up/look-up.jpg"
 views: "96"
 faves: "7"
 tags:

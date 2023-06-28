@@ -2,7 +2,7 @@
 title: "keeping up appearances."
 date: "2007-11-25 01:56:32"
 privacy: "public"
-image: "photo/keeping-up-appearances/keeping-up-appearances.jpg"
+image: "2007/11/25/keeping-up-appearances/keeping-up-appearances.jpg"
 views: "11"
 faves: "0"
 lat: "51532027"

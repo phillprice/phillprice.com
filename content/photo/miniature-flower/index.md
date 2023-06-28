@@ -2,7 +2,7 @@
 title: "Miniature Flower"
 date: "2005-02-14 09:55:31"
 privacy: "public"
-image: "photo/miniature-flower/miniature-flower.jpg"
+image: "2005/02/14/miniature-flower/miniature-flower.jpg"
 views: "117"
 faves: "0"
 tags:

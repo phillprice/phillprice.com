@@ -2,7 +2,7 @@
 title: "December Challenge - Chris Moose"
 date: "2007-12-23 04:48:28"
 privacy: "public"
-image: "photo/december-challenge-chris-moose/december-challenge-chris-moose.jpg"
+image: "2007/12/23/december-challenge-chris-moose/december-challenge-chris-moose.jpg"
 views: "32"
 faves: "1"
 tags:

@@ -2,7 +2,7 @@
 title: "awake daisy"
 date: "2007-09-23 02:50:19"
 privacy: "public"
-image: "photo/awake-daisy/awake-daisy.jpg"
+image: "2007/09/23/awake-daisy/awake-daisy.jpg"
 views: "13"
 faves: "0"
 tags:

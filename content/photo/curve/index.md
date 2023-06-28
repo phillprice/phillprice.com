@@ -2,7 +2,7 @@
 title: "curve"
 date: "2008-12-19 00:36:06"
 privacy: "public"
-image: "photo/curve/curve.jpg"
+image: "2008/12/19/curve/curve.jpg"
 views: "67"
 faves: "4"
 lat: "51470429"

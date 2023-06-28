@@ -2,7 +2,7 @@
 title: "crossing barriers"
 date: "2007-12-16 01:16:28"
 privacy: "public"
-image: "photo/crossing-barriers/crossing-barriers.jpg"
+image: "2007/12/16/crossing-barriers/crossing-barriers.jpg"
 views: "20"
 faves: "0"
 tags:

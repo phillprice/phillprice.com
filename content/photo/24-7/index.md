@@ -2,7 +2,7 @@
 title: "24 / 7"
 date: "2007-11-23 10:36:23"
 privacy: "public"
-image: "photo/24-7/24-7.jpg"
+image: "2007/11/23/24-7/24-7.jpg"
 views: "17"
 faves: "0"
 lat: "51509430"

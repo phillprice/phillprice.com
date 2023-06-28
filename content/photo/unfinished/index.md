@@ -2,7 +2,7 @@
 title: "Unfinished"
 date: "2007-11-25 01:57:19"
 privacy: "public"
-image: "photo/unfinished/unfinished.jpg"
+image: "2007/11/25/unfinished/unfinished.jpg"
 views: "13"
 faves: "0"
 lat: "51532027"

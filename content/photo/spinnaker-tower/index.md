@@ -2,7 +2,7 @@
 title: "Spinnaker Tower"
 date: "2005-02-14 09:54:14"
 privacy: "public"
-image: "photo/spinnaker-tower/spinnaker-tower.jpg"
+image: "2005/02/14/spinnaker-tower/spinnaker-tower.jpg"
 views: "290"
 faves: "0"
 lat: "50795349"

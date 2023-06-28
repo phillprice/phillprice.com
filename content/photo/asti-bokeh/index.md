@@ -2,7 +2,7 @@
 title: "asti bokeh"
 date: "2007-12-17 01:11:51"
 privacy: "public"
-image: "photo/asti-bokeh/asti-bokeh.jpg"
+image: "2007/12/17/asti-bokeh/asti-bokeh.jpg"
 views: "25"
 faves: "0"
 tags:

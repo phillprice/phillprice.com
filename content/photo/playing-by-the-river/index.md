@@ -2,7 +2,7 @@
 title: "Playing by the river"
 date: "2005-02-16 06:56:29"
 privacy: "public"
-image: "photo/playing-by-the-river/playing-by-the-river.jpg"
+image: "2005/02/16/playing-by-the-river/playing-by-the-river.jpg"
 views: "45"
 faves: "0"
 lat: "50808972"

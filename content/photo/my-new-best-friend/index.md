@@ -2,7 +2,7 @@
 title: "My New Best Friend"
 date: "2007-09-21 04:01:38"
 privacy: "public"
-image: "photo/my-new-best-friend/my-new-best-friend.jpg"
+image: "2007/09/21/my-new-best-friend/my-new-best-friend.jpg"
 views: "417"
 faves: "0"
 tags:

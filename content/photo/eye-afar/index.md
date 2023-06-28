@@ -2,7 +2,7 @@
 title: "Eye afar"
 date: "2007-12-15 02:18:54"
 privacy: "public"
-image: "photo/eye-afar/eye-afar.jpg"
+image: "2007/12/15/eye-afar/eye-afar.jpg"
 views: "18"
 faves: "0"
 lat: "51506441"

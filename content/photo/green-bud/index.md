@@ -2,7 +2,7 @@
 title: "green bud"
 date: "2007-08-25 04:35:28"
 privacy: "public"
-image: "photo/green-bud/green-bud.jpg"
+image: "2007/08/25/green-bud/green-bud.jpg"
 views: "18"
 faves: "0"
 tags:

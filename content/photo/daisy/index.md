@@ -1,17 +1,10 @@
 ---
 title: "daisy"
-date: "2007-10-13 08:47:14"
-privacy: "public"
-image: "photo/daisy/daisy.jpg"
-views: "7"
+date: "2006-08-26 11:15:09"
+privacy: "friend & family"
+image: "2006/08/26/daisy/daisy.jpg"
+views: "24"
 faves: "0"
 tags:
-- "london"
-- "england"
-- "uk"
-- "macro"
-- "flower"
-- "seed"
-- "daisy"
 ---
-old daisy seeds (you can see the daisy earlier on in the stream...)
+

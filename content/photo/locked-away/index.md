@@ -2,7 +2,7 @@
 title: "Locked Away"
 date: "2008-12-19 15:38:08"
 privacy: "public"
-image: "photo/locked-away/locked-away.jpg"
+image: "2008/12/19/locked-away/locked-away.jpg"
 views: "59"
 faves: "4"
 lat: "51480804"
