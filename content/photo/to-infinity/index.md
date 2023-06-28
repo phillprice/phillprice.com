@@ -1,0 +1,27 @@
+---
+title: "To infinity"
+date: "2009-02-12 15:38:05"
+privacy: "public"
+image: "photo/to-infinity/to-infinity.jpg"
+views: "86"
+faves: "6"
+tags:
+- "via-pixelpipe"
+- "angles"
+- "bank"
+- "building"
+- "city"
+- "cloud"
+- "england"
+- "february"
+- "glass"
+- "london"
+- "office"
+- "photowalklondon"
+- "skyscraper"
+- "symmetry"
+- "uk"
+- "vanishingpoint"
+- "winter"
+---
+Well nearly... I have a few shot's like this posted of different buildings but I can't get enough of them! - <a href="/photos/2009/02/12/to-infinity"></a>

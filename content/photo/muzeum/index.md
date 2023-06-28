@@ -1,0 +1,27 @@
+---
+title: "Muzeum"
+date: "2008-11-11 15:31:55"
+privacy: "public"
+image: "photo/muzeum/muzeum.jpg"
+views: "208"
+faves: "16"
+tags:
+- "via-pixelpipe"
+- "czech republic"
+- "dalek"
+- "documentum"
+- "emc"
+- "europe"
+- "metro"
+- "momentum"
+- "muzeum"
+- "prague"
+- "praha"
+- "station"
+- "sunset"
+- "tile"
+- "tube"
+- "underground"
+- "Epic Edits Selection"
+---
+Apparently some of the Prague Metro stations are actually inside Daleks! - <a href="/photos/2008/11/12/muzeum"></a>

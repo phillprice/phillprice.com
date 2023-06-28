@@ -1,0 +1,26 @@
+---
+title: "cold arches"
+date: "2007-11-25 02:01:03"
+privacy: "public"
+image: "photo/cold-arches/cold-arches.jpg"
+views: "41"
+faves: "0"
+lat: "51532027"
+lng: "-126686"
+tags:
+- "kingscross"
+- "stpancras"
+- "stpancrasinternational"
+- "eurostar"
+- "train"
+- "railway"
+- "station"
+- "london"
+- "england"
+- "uk"
+- "euston"
+- "arches"
+- "brick"
+- "iron"
+---
+holding up the entire structure, where warm brick mets cold iron.

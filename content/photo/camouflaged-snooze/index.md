@@ -1,0 +1,25 @@
+---
+title: "Camouflaged snooze"
+date: "2009-08-26 11:29:14"
+privacy: "public"
+image: "photo/camouflaged-snooze/camouflaged-snooze.jpg"
+views: "107"
+faves: "5"
+tags:
+- "Animalia"
+- "Arthropoda"
+- "Coccinellidae"
+- "Coleoptera"
+- "Cucujoidea"
+- "doze"
+- "england"
+- "garden"
+- "insect"
+- "Insecta"
+- "ladybird"
+- "ladybug"
+- "norfolk"
+- "snooze"
+- "uk"
+---
+Or not quite. One of the illions of ladybirds that plagued the North Norfolk coast earlier this month; snoozing in the sun - <a href="/photos/2009/08/26/camouflaged-snooze" rel="nofollow"></a>

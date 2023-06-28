@@ -1,0 +1,26 @@
+---
+title: "Please keep off the banks"
+date: "2009-04-01 14:59:25"
+privacy: "public"
+image: "photo/please-keep-off-the-banks/please-keep-off-the-banks.jpg"
+views: "101"
+faves: "0"
+lat: "51477086"
+lng: "-235165"
+tags:
+- "via-pixelpipe"
+- "banks"
+- "barnes"
+- "england"
+- "london"
+- "londonflickrmeetups"
+- "ninja"
+- "protest"
+- "trust"
+- "uk"
+- "upcoming:event=1747198"
+- "wetland"
+- "wildfowl"
+- "wwt"
+---
+<a href="/photos/2009/04/01/please-keep-off-the-banks"></a>

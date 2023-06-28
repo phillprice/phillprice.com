@@ -1,0 +1,27 @@
+---
+title: "Purple Sunset"
+date: "2007-12-04 11:34:02"
+privacy: "public"
+image: "photo/purple-sunset/purple-sunset.jpg"
+views: "52"
+faves: "0"
+lat: "51502451"
+lng: "-23603"
+tags:
+- "canarywharf"
+- "london"
+- "england"
+- "uk"
+- "sunset"
+- "purple"
+- "docklands"
+- "crane"
+- "dock"
+- "thames"
+- "night"
+- "bridge"
+- "commercial"
+- "offices"
+- "buildingg"
+---
+Taken from my office window - the crane is dismantling temporary floating site offices that you can see in the same geotagged location in older shots. I can't tell you how purple the sky was, beautiful.

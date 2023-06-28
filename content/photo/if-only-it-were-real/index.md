@@ -1,0 +1,27 @@
+---
+title: "If only it were real!"
+date: "2007-09-29 09:42:43"
+privacy: "public"
+image: "photo/if-only-it-were-real/if-only-it-were-real.jpg"
+views: "81"
+faves: "0"
+lat: "51512421"
+lng: "-150718"
+tags:
+- "coin"
+- "chip"
+- "casino"
+- "100"
+- "dollar"
+- "hundred"
+- "USD"
+- "roulette"
+- "chocolate"
+- "bond"
+- "royale"
+- "PwC"
+- "james"
+- "jamesbond"
+- "UKIT"
+---
+Last night was the PwC UKIT ball, a gorgeous meal precedded by the head of IT being taken as a hostage by terrorists only to be saved by James Bond. Very loud considering the US embassy was across the road! These chocolate ships were part of the table decoration, yummeh

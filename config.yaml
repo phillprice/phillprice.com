@@ -1,0 +1,41 @@
+baseURL: 'https://phillprice.com/'
+languageCode: en-us
+title: Phill Price
+theme: phill
+params:
+  ananke_socials:
+    - name: strava
+      url: 'https://www.strava.com/athletes/145963'
+      label: Strava
+    - name: instagram
+      url: 'http://instagram.com/phillprice'
+      label: Instagram
+    - name: linkedin-in
+      url: 'http://linkedin.com/in/phillprice'
+      label: Linkedin
+  typeit_strings:
+    - Cyclist
+    - Lead Software Engineer
+    - Tinkerer
+  menu:
+    - name: Home
+      icon: house-damage
+      link: "/"
+    - name: About
+      icon: address-card
+      link: "/#about"
+    - name: Photos
+      icon: panorama
+      link: "/photo"
+    - name: Experience
+      icon: briefcase
+      link: "/experience"
+    - name: Blog
+      icon: blog
+      link: "/post"
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 95
+  resampleFilter: Lanczos

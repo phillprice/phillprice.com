@@ -1,0 +1,27 @@
+---
+title: "London eye"
+date: "2007-12-14 14:48:58"
+privacy: "public"
+image: "photo/london-eye/london-eye.jpg"
+views: "39"
+faves: "2"
+lat: "51506441"
+lng: "-122222"
+tags:
+- "uk"
+- "england"
+- "london"
+- "westminster"
+- "southark"
+- "thames"
+- "river"
+- "londoneye"
+- "eye"
+- "bokeh"
+- "light"
+- "night"
+- "dark"
+- "string"
+- "boat"
+---
+A lot of people are coming out of Christmas parties and seeing this view no doubt - taken underneath hungerford brdge - North side this is th eLondon eye shot in Macro :)

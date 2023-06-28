@@ -1,0 +1,28 @@
+---
+title: "To the trains"
+date: "2008-02-01 17:07:17"
+privacy: "public"
+image: "photo/to-the-trains/to-the-trains.jpg"
+views: "171"
+faves: "1"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+Simple and informative sign. Not it's not always been this rough looking - they've started pathes of work and not fixed others in the rundown to closure

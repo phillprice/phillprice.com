@@ -1,0 +1,28 @@
+---
+title: "Ominous"
+date: "2008-02-01 17:03:11"
+privacy: "public"
+image: "photo/ominous/ominous.jpg"
+views: "226"
+faves: "1"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+The crane looms over the whitecity development and the new interchange where buses, trains and tube meet. It's gonna be busy round here, but at least it'll mean I don't hav eto cross ove to the otherside and the hell of the bus stops on the south side will go away (fingers crossed. - <a href="/photos/2008/02/09/photochallenge-2008-regeneration"></a>

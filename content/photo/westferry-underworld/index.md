@@ -1,0 +1,26 @@
+---
+title: "Westferry underworld"
+date: "2007-12-03 11:13:03"
+privacy: "public"
+image: "photo/westferry-underworld/westferry-underworld.jpg"
+views: "46"
+faves: "1"
+lat: "51506391"
+lng: "-26907"
+tags:
+- "canarywharf"
+- "westferry"
+- "westferrycircus"
+- "night"
+- "london"
+- "england"
+- "uk"
+- "roundabout"
+- "tunner"
+- "gate"
+- "whole"
+- "pavement"
+- "road"
+- "blur"
+---
+Underneath the pristinly kept gardens (see geotagged satellite view) lies a roundabout leading to the Canary wharf Car parks, and a gate to a couple of bins...

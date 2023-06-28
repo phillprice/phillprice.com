@@ -1,0 +1,28 @@
+---
+title: "The first shoots of spring"
+date: "2009-03-25 15:47:16"
+privacy: "public"
+image: "photo/the-first-shoots-of-spring/the-first-shoots-of-spring.jpg"
+views: "65"
+faves: "2"
+lat: "51477086"
+lng: "-235165"
+tags:
+- "via-pixelpipe"
+- "barnes"
+- "england"
+- "green"
+- "leaf"
+- "london"
+- "londonflickrmeetups"
+- "ninja"
+- "shoots"
+- "spring"
+- "trust"
+- "uk"
+- "upcoming:event=1747198"
+- "wetland"
+- "wildfowl"
+- "wwt"
+---
+<a href="/photos/2009/03/25/the-first-shoots-of-spring"></a>

@@ -1,0 +1,28 @@
+---
+title: "Distracted"
+date: "2009-04-17 14:38:36"
+privacy: "public"
+image: "photo/distracted/distracted.jpg"
+views: "70"
+faves: "3"
+lat: "51211561"
+lng: "-1562633"
+tags:
+- "via-pixelpipe"
+- "Athene cunicularia"
+- "andover"
+- "bird"
+- "burrowing owl"
+- "conservancy"
+- "eagle"
+- "england"
+- "hampshire"
+- "hawk"
+- "hawk conservancy"
+- "owl"
+- "raptor"
+- "trust"
+- "uk"
+- "vulture"
+---
+Milliseconds after <a href="/photos/2009/04/12/portrait-of-a-burrowing-owl">my shot earlier in the week</a> the little own was distracted, I love their colours. - <a href="/photos/2009/04/17/distracted"></a>

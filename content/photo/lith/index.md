@@ -1,0 +1,26 @@
+---
+title: "-lith"
+date: "2009-06-25 15:53:11"
+privacy: "public"
+image: "photo/lith/lith.jpg"
+views: "65"
+faves: "1"
+lat: "51514297"
+lng: "-81367"
+tags:
+- "angles"
+- "architecture"
+- "bank"
+- "building"
+- "city"
+- "england"
+- "february"
+- "glass"
+- "london"
+- "office"
+- "photowalklondon"
+- "skyscraper"
+- "uk"
+- "winter"
+---
+<a href="/photos/2009/06/25/lith" rel="nofollow"></a>

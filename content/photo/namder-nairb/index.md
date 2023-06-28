@@ -1,0 +1,26 @@
+---
+title: "namdeR nairB"
+date: "2008-07-24 13:31:52"
+privacy: "public"
+image: "photo/namder-nairb/namder-nairb.jpg"
+views: "54"
+faves: "0"
+lat: "50873640"
+lng: "-742160"
+tags:
+- "brian redman"
+- "driver"
+- "england"
+- "goodwood"
+- "goodwood festival"
+- "goodwood festival of speed"
+- "gtr"
+- "mirror"
+- "racing"
+- "racing carcar"
+- "racing driver"
+- "reflection"
+- "sussex"
+- "uk"
+---
+Brian Redman in reflection, waiting for his turn on the hill. - <a href="/photos/2008/07/24/namder-nairb"></a>

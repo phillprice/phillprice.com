@@ -1,0 +1,27 @@
+---
+title: "gently ... dozing ... off"
+date: "2009-01-24 13:51:57"
+privacy: "public"
+image: "photo/gently-dozing-off/gently-dozing-off.jpg"
+views: "80"
+faves: "1"
+lat: "51477086"
+lng: "-235165"
+tags:
+- "via-pixelpipe"
+- "april"
+- "barnes"
+- "england"
+- "london"
+- "londonflickrmeetups"
+- "snooze"
+- "uk"
+- "wetlands"
+- "trust"
+- "wildfowl"
+- "wwt"
+- "wetlands trust"
+- "wildfowl wetlands"
+- "United Kingdom"
+---
+Taken last year at the London Flickr Meetups in WWT Barnes - looking forward to going there again this year maybe? - <a href="/photos/2009/01/24/gently-dozing-off"></a>

@@ -1,0 +1,26 @@
+---
+title: "Misty Picket Post"
+date: "2007-12-22 11:25:50"
+privacy: "public"
+image: "photo/misty-picket-post/misty-picket-post.jpg"
+views: "44"
+faves: "2"
+lat: "50848690"
+lng: "-1724380"
+tags:
+- "hampshire"
+- "mist"
+- "fog"
+- "sunset"
+- "newforestcountrypark"
+- "new"
+- "forest"
+- "newforest"
+- "park"
+- "hill"
+- "landscape"
+- "brush"
+- "england"
+- "uk"
+---
+I drove past this in Christmas 2004 and this is the first time I've seen this happen since. The mist rolls down below Picket Post down towards Bournemouth. Truly unbelievable yet I got the shot, YESSS!

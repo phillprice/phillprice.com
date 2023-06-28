@@ -1,0 +1,25 @@
+---
+title: "Grace and Beauty"
+date: "2009-05-05 15:11:31"
+privacy: "public"
+image: "photo/grace-and-beauty/grace-and-beauty.jpg"
+views: "54"
+faves: "3"
+lat: "51477086"
+lng: "-235165"
+tags:
+- "via-pixelpipe"
+- "barnes"
+- "england"
+- "london"
+- "ninja"
+- "reflection"
+- "swan"
+- "trust"
+- "uk"
+- "upcoming:event=1747198"
+- "wetland"
+- "wildfowl"
+- "wwt"
+---
+A gorgeous Black swan floating around in the Barnes WWT; I thoroughly recommend it as a day out! - <a href="/photos/2009/05/05/grace-and-beauty"></a>

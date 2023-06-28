@@ -1,0 +1,25 @@
+---
+title: "Beach huts"
+date: "2009-07-07 15:13:56"
+privacy: "public"
+image: "photo/beach-huts/beach-huts.jpg"
+views: "97"
+faves: "4"
+lat: "50720373"
+lng: "-1838750"
+tags:
+- "beach"
+- "blue"
+- "bournemouth"
+- "color"
+- "colour"
+- "dorset"
+- "england"
+- "green"
+- "huts"
+- "red"
+- "sun"
+- "uk"
+- "yellow"
+---
+I promise you they really are this vibrant! Seen on the new gentrified Boscombe pier - which has changed a lot since I was last there - hope the days of being the ugly sister of Bournemouth pier are behind it - <a href="/photos/2009/07/07/beach-huts" rel="nofollow"></a>

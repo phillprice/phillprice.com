@@ -1,0 +1,26 @@
+---
+title: "parallel campaign"
+date: "2009-08-10 14:13:12"
+privacy: "public"
+image: "photo/parallel-campaign/parallel-campaign.jpg"
+views: "74"
+faves: "0"
+lat: "51513813"
+lng: "-81764"
+tags:
+- "align"
+- "bank"
+- "bench"
+- "city"
+- "england"
+- "february"
+- "london"
+- "photowalklondon"
+- "seat"
+- "similar"
+- "spike"
+- "split-tone"
+- "uk"
+- "winter"
+---
+These two ae so similar I expect they would fight all day, if they weren't inanimate! - <a href="/photos/2009/08/10/parallel-campaign" rel="nofollow"></a>

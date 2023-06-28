@@ -1,0 +1,27 @@
+---
+title: "Eye afar"
+date: "2007-12-15 02:18:54"
+privacy: "public"
+image: "photo/eye-afar/eye-afar.jpg"
+views: "18"
+faves: "0"
+lat: "51506441"
+lng: "-122222"
+tags:
+- "uk"
+- "england"
+- "london"
+- "westminster"
+- "southark"
+- "thames"
+- "river"
+- "londoneye"
+- "eye"
+- "boat"
+- "bokeh"
+- "light"
+- "night"
+- "dark"
+- "string"
+---
+Taken from the northe side - by Westminster Pier this is the London eye framed by Party boats

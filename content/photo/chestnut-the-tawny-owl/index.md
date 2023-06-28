@@ -1,0 +1,27 @@
+---
+title: "Chestnut the Tawny Owl"
+date: "2009-04-13 15:26:45"
+privacy: "public"
+image: "photo/chestnut-the-tawny-owl/chestnut-the-tawny-owl.jpg"
+views: "106"
+faves: "2"
+lat: "51211561"
+lng: "-1562633"
+tags:
+- "via-pixelpipe"
+- "Strix aluco sylvatica"
+- "andover"
+- "bird"
+- "chestnut"
+- "conservancy"
+- "england"
+- "hampshire"
+- "hawk conservancy"
+- "owl"
+- "portrait"
+- "raptor"
+- "tawny owl"
+- "trust"
+- "uk"
+---
+He winks knowingly - after all he's been a star in TV adverts for years. The celeb! - <a href="/photos/2009/04/13/chestnut-the-tawny-owl"></a>

@@ -1,0 +1,28 @@
+---
+title: "RED DLR"
+date: "2008-05-06 12:20:12"
+privacy: "public"
+image: "photo/red-dlr/red-dlr.jpg"
+views: "1837"
+faves: "40"
+lat: "51501790"
+lng: "-21296"
+tags:
+- "canary wharf"
+- "dlr"
+- "dockland light railway"
+- "england"
+- "heron quays"
+- "light rail"
+- "london"
+- "monochrome"
+- "morgan stanley"
+- "morning"
+- "red"
+- "tfl"
+- "train"
+- "transport for london"
+- "uk"
+- "United Kingdom"
+---
+As I walked in the glorious sunshine this morning, listening to TWIP (belatedly) this chap started leaving the station just as they announced the red contest again. Note : ALWAYS keep your camera with you! - <a href="/photos/2008/05/06/red-dlr"></a>

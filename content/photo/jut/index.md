@@ -1,0 +1,28 @@
+---
+title: "Jut"
+date: "2008-02-01 17:03:44"
+privacy: "public"
+image: "photo/jut/jut.jpg"
+views: "251"
+faves: "0"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+just look at that wall, I'm gonna miss you buddy :(

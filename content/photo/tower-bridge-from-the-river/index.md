@@ -1,0 +1,26 @@
+---
+title: "Tower bridge from the river"
+date: "2008-07-03 15:52:35"
+privacy: "public"
+image: "photo/tower-bridge-from-the-river/tower-bridge-from-the-river.jpg"
+views: "68"
+faves: "1"
+lat: "51506421"
+lng: "-78455"
+tags:
+- "boat"
+- "clipper"
+- "enfgland.uk"
+- "golden"
+- "london"
+- "ridge"
+- "river"
+- "river thames"
+- "sunset"
+- "thames"
+- "thames clipper"
+- "tower"
+- "tower bridge"
+- "United Kingdom"
+---
+A rare view of Tower bridge square on, at sunset from the Thames Clipper - <a href="/photos/2008/07/04/tower-bridge-from-the-river"></a>

@@ -1,0 +1,26 @@
+---
+title: "orange bokeh tree"
+date: "2007-12-10 13:05:40"
+privacy: "public"
+image: "photo/orange-bokeh-tree/orange-bokeh-tree.jpg"
+views: "60"
+faves: "1"
+lat: "51503941"
+lng: "-25255"
+tags:
+- "london"
+- "bokeh"
+- "canarywharf"
+- "england"
+- "uk"
+- "westferry"
+- "circus"
+- "westferrycircus"
+- "light"
+- "tree"
+- "christmas"
+- "pierrevivant"
+- "pierre"
+- "vivant"
+---
+OK I couldn't resist this one - loving the blurriness at the moment - very Christmas party - Might take my stuck on macro camera out specifically for this kind for shot hurrah!

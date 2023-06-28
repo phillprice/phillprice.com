@@ -1,0 +1,25 @@
+---
+title: "Day tickets only available from tackle shops"
+date: "2008-04-06 03:03:50"
+privacy: "public"
+image: "photo/day-tickets-only-available-from-tackle-shops/day-tickets-only-available-from-tackle-shops.jpg"
+views: "71"
+faves: "2"
+lat: "50845784"
+lng: "-1796565"
+tags:
+- "aprilchallenge"
+- "avon"
+- "entropy"
+- "fence"
+- "field"
+- "hampshire"
+- "photochallenge"
+- "ringwood"
+- "river"
+- "river avon"
+- "sign"
+- "typography"
+- "United Kingdom"
+---
+This sign, on the River Avon by the Castleman trail, alerts people that they need a day ticket to fish here. The lower sign marks the field as private land (cows graze on it.)  April challenge #6 - <a href="/photos/2008/04/06/day-tickets-only-available-from-tackle-shops"></a>

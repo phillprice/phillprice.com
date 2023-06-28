@@ -1,0 +1,28 @@
+---
+title: "Chocks away!"
+date: "2008-12-13 15:16:20"
+privacy: "public"
+image: "photo/chocks-away/chocks-away.jpg"
+views: "220"
+faves: "6"
+tags:
+- "via-pixelpipe"
+- "5d"
+- "mkii"
+- "mk2"
+- "canon"
+- "s5"
+- "england"
+- "london"
+- "uk"
+- "canon 5d"
+- "canon 5d mkii"
+- "5d mkii"
+- "5d mk2"
+- "canon 5d mk2"
+- "sana"
+- "parachute"
+- "santa claus"
+- "father christmas"
+---
+<a href="/photos/2008/12/13/chocks-away"></a>

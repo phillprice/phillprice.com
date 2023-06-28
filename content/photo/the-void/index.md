@@ -1,0 +1,25 @@
+---
+title: "The Void"
+date: "2009-05-29 15:30:52"
+privacy: "public"
+image: "photo/the-void/the-void.jpg"
+views: "58"
+faves: "1"
+lat: "51520622"
+lng: "-88856"
+tags:
+- "barbican"
+- "city"
+- "england"
+- "green"
+- "light"
+- "london"
+- "photowalklondon"
+- "roof"
+- "square"
+- "uk"
+- "vent"
+- "void"
+- "United Kingdom"
+---
+How's that for negative space? This is one of the vents in the Barbican; <a href="http://twitter.com/matstace">Mat Stace</a> might even remember me taking it as we tried to catch up with the group? - <a href="/photos/2009/05/29/the-void"></a>

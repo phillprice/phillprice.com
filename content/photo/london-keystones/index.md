@@ -1,0 +1,25 @@
+---
+title: "London Keystones"
+date: "2009-07-01 14:20:28"
+privacy: "public"
+image: "photo/london-keystones/london-keystones.jpg"
+views: "75"
+faves: "0"
+lat: "51499857"
+lng: "-177610"
+tags:
+- "9"
+- "aldwych"
+- "bus"
+- "england"
+- "kensington"
+- "chelsea"
+- "london"
+- "photowalklondon"
+- "rbkc"
+- "taxi"
+- "tfl"
+- "uk"
+- "kensington and chelsea"
+---
+<a href="/photos/2009/07/01/london-keystones" rel="nofollow"></a>

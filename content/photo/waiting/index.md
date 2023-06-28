@@ -1,0 +1,25 @@
+---
+title: "waiting"
+date: "2007-10-13 08:44:58"
+privacy: "public"
+image: "photo/waiting/waiting.jpg"
+views: "24"
+faves: "0"
+lat: "51495114"
+lng: "-246570"
+tags:
+- "london"
+- "england"
+- "uk"
+- "stamfordbrook"
+- "chiswich"
+- "hounslow"
+- "tube"
+- "underground"
+- "platform"
+- "rail"
+- "londonunderground"
+- "district"
+- "disctricline"
+---
+

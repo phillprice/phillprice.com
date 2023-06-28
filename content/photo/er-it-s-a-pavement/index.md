@@ -1,0 +1,26 @@
+---
+title: "Er, it's a pavement"
+date: "2009-09-20 14:20:33"
+privacy: "public"
+image: "photo/er-it-s-a-pavement/er-it-s-a-pavement.jpg"
+views: "202"
+faves: "0"
+lat: "51508648"
+lng: "-105088"
+tags:
+- "blackfriars"
+- "bridge"
+- "cold"
+- "england"
+- "january"
+- "london"
+- "photowalk"
+- "photowalklondon"
+- "south"
+- "bank"
+- "southwark"
+- "uk"
+- "winter"
+- "south bank"
+---
+What is the world coming to? - <a href="/photos/2009/09/20/er-its-a-pavement" rel="nofollow"></a>

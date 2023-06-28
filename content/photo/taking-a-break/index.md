@@ -1,0 +1,28 @@
+---
+title: "Taking a break"
+date: "2008-12-10 13:41:58"
+privacy: "public"
+image: "photo/taking-a-break/taking-a-break.jpg"
+views: "362"
+faves: "4"
+tags:
+- "via-pixelpipe"
+- "5d"
+- "mk2"
+- "mkii"
+- "back"
+- "door"
+- "break"
+- "canon"
+- "england"
+- "london"
+- "night"
+- "uk"
+- "5d mk2"
+- "5d mkii"
+- "back door"
+- "canon 5d"
+- "canon 5d mk2"
+- "canon 5d mkii"
+---
+<a href="/photos/2008/12/10/taking-a-break"></a>

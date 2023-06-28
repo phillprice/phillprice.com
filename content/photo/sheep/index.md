@@ -1,0 +1,28 @@
+---
+title: "sheep"
+date: "2008-02-01 17:04:49"
+privacy: "public"
+image: "photo/sheep/sheep.jpg"
+views: "99"
+faves: "0"
+lat: "51504455"
+lng: "-218224"
+tags:
+- "demolish"
+- "shepherdsbush"
+- "old"
+- "shepherds"
+- "tube"
+- "regeneration"
+- "londonunderground"
+- "bush"
+- "station"
+- "london"
+- "architecture"
+- "central"
+- "underground"
+- "new"
+- "centralline"
+- "line"
+---
+I assume this is the real pleace that gives the area it's name?

@@ -1,0 +1,27 @@
+---
+title: "sharp"
+date: "2008-07-31 13:15:46"
+privacy: "public"
+image: "photo/sharp/sharp.jpg"
+views: "87"
+faves: "3"
+lat: "50873640"
+lng: "-742160"
+tags:
+- "135mm"
+- "england"
+- "exhaust"
+- "f2"
+- "festival of speed"
+- "goodwood"
+- "goodwood festival"
+- "goodwood festival of speed"
+- "mclaren"
+- "mclaren f1"
+- "mclaren mercedes"
+- "mercedes"
+- "sharp"
+- "sussex"
+- "uk"
+---
+The exhaust of the Mclaren mercedes. Not something I want to touch, ow! - <a href="/photos/2008/07/31/sharp"></a>

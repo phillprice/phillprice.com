@@ -1,0 +1,28 @@
+---
+title: "Albert Memorial"
+date: "2007-11-26 14:35:27"
+privacy: "public"
+image: "photo/albert-memorial/albert-memorial.jpg"
+views: "73"
+faves: "3"
+lat: "51501606"
+lng: "-177465"
+tags:
+- "albert"
+- "alberthall"
+- "albertmemorial"
+- "concert"
+- "england"
+- "gardens"
+- "hall"
+- "kensington"
+- "kensingtongardesn"
+- "london"
+- "memoria"
+- "memorial"
+- "prince"
+- "princealbert"
+- "rprince"
+- "uk"
+---
+I'm truly pleased with this shot, The memorial is sharp and centered, level and the clouds are showing as I wanted :D - <a href="/photos/2007/11/29/photo-thursday-24"></a>

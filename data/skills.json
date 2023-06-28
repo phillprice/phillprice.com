@@ -1,0 +1,13 @@
+{
+    "title": "Cycling Palmares",
+    "subtitle": "I ride IRL with Horsell Velo",
+    "races": [
+        {"category":"D","position":"4","Date":"2019-05-25 00:00:00","Name":"HERD Americas Race"},
+        {"category":"D","position":"6","Date":"2019-04-27 00:00:00","Name":"HERD Americas Race"},
+        {"category":"C","position":"6","Date":"2019-11-23 00:00:00","Name":"HBR11 by Herd Racing League"},
+        {"category":"C","position":"6","Date":"2019-11-16 00:00:00","Name":"3R Innsbruckring Sprint Race"},
+        {"category":"C","position":"24","Date":"2019-12-08 00:00:00","Name":"The Alpe Dash by Herd Racing League"},
+        {"category":"C","position":"30","Date":"2019-12-12 00:00:00","Name":"Lamb Chop Series"},
+        {"category":"D","position":"36","Date":"2018-11-27 00:00:00","Name":"GCN Race Series: Alpe Du Zwift Race"}
+    ]
+}

@@ -1,0 +1,27 @@
+---
+title: "Clink prison"
+date: "2008-04-07 23:56:33"
+privacy: "public"
+image: "photo/clink-prison/clink-prison.jpg"
+views: "100"
+faves: "1"
+lat: "51507066"
+lng: "-91538"
+tags:
+- "aprilchallenge"
+- "decay"
+- "door"
+- "entropy"
+- "london"
+- "museum"
+- "photochallenge"
+- "prison"
+- "southbank"
+- "typography"
+- "uk"
+- "United Kingdom"
+- "clink"
+- "musuem"
+- "sign"
+---
+A door rapidly falling into disrepair, April challenge #8 - <a href="/photos/2008/04/08/clink-prison"></a>

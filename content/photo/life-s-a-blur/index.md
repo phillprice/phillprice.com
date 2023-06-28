@@ -1,0 +1,25 @@
+---
+title: "Life's a blur"
+date: "2008-11-18 15:00:07"
+privacy: "public"
+image: "photo/life-s-a-blur/life-s-a-blur.jpg"
+views: "72"
+faves: "0"
+tags:
+- "via-pixelpipe"
+- "blur"
+- "bridge"
+- "car"
+- "czech republic"
+- "documentum"
+- "emc"
+- "momentum"
+- "monochrome"
+- "prague"
+- "praha"
+- "traffic"
+- "yellow"
+- "London"
+- "United Kingdom"
+---
+<a href="/photos/2008/11/19/lifes-a-blur"></a>

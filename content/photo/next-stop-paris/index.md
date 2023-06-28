@@ -1,0 +1,25 @@
+---
+title: "Next Stop Paris"
+date: "2007-11-25 01:58:49"
+privacy: "public"
+image: "photo/next-stop-paris/next-stop-paris.jpg"
+views: "15"
+faves: "0"
+lat: "51532027"
+lng: "-126686"
+tags:
+- "kingscross"
+- "stpancras"
+- "stpancrasinternational"
+- "eurostar"
+- "train"
+- "railway"
+- "station"
+- "london"
+- "england"
+- "uk"
+- "euston"
+- "platform"
+- "javeline"
+---
+Two trains resting ready for another trip to Paris, Gare du Nord.

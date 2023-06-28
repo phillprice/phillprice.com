@@ -1,0 +1,28 @@
+---
+title: "Unfinished"
+date: "2007-11-25 01:57:19"
+privacy: "public"
+image: "photo/unfinished/unfinished.jpg"
+views: "13"
+faves: "0"
+lat: "51532027"
+lng: "-126686"
+tags:
+- "kingscross"
+- "stpancras"
+- "stpancrasinternational"
+- "eurostar"
+- "train"
+- "railway"
+- "station"
+- "london"
+- "england"
+- "uk"
+- "euston"
+- "clock"
+- "mural"
+- "unfinished"
+- "hiding"
+- "gent"
+---
+Gorgeous clock. But looks like I'll have to come back when they unveil the mural up here...

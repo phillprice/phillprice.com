@@ -1,0 +1,25 @@
+---
+title: "West India Gold"
+date: "2007-11-18 03:09:17"
+privacy: "public"
+image: "photo/west-india-gold/west-india-gold.jpg"
+views: "10"
+faves: "2"
+lat: "51506952"
+lng: "-27079"
+tags:
+- "canarywharf"
+- "curve"
+- "dawn"
+- "indiaquay"
+- "marriott"
+- "morning"
+- "orange"
+- "silhouette"
+- "sky"
+- "sunrise"
+- "uk"
+- "westindia"
+- "westindiaquay"
+---
+just caught the sunrise - you'll find similar shots of the curve through my stream, but I like this the most.

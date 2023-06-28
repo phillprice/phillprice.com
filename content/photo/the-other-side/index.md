@@ -1,0 +1,26 @@
+---
+title: "The other side"
+date: "2009-07-15 12:03:55"
+privacy: "public"
+image: "photo/the-other-side/the-other-side.jpg"
+views: "65"
+faves: "1"
+lat: "51514377"
+lng: "-86265"
+tags:
+- "angles"
+- "architecture"
+- "bank"
+- "building"
+- "city"
+- "england"
+- "february"
+- "glass"
+- "london"
+- "office"
+- "photowalklondon"
+- "skyscraper"
+- "uk"
+- "winter"
+---
+<a href="/photos/2009/07/15/the-other-side" rel="nofollow"></a>

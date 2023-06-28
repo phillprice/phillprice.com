@@ -1,0 +1,28 @@
+---
+title: "Texture explosion"
+date: "2009-06-10 13:09:56"
+privacy: "public"
+image: "photo/texture-explosion/texture-explosion.jpg"
+views: "91"
+faves: "1"
+lat: "51520705"
+lng: "-88709"
+tags:
+- "angles"
+- "architecture"
+- "building"
+- "city"
+- "england"
+- "geometry"
+- "glass"
+- "london"
+- "monochrome"
+- "moorgate"
+- "office"
+- "photowalklondon"
+- "skyscraper"
+- "uk"
+- "window"
+- "United Kingdom"
+---
+From the smooth glass; the jagged window frames and crystal-like lower windows. Great detail in the RopeMaker building. - <a href="/photos/2009/06/10/texture-explosion" rel="nofollow"></a>

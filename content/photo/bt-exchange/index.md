@@ -1,0 +1,25 @@
+---
+title: "BT Exchange"
+date: "2008-04-05 01:23:12"
+privacy: "public"
+image: "photo/bt-exchange/bt-exchange.jpg"
+views: "82"
+faves: "3"
+tags:
+- "aprilchallenge"
+- "bt"
+- "city"
+- "decay"
+- "england"
+- "entropy"
+- "exchange"
+- "london"
+- "paint"
+- "peel"
+- "photochallenge"
+- "sign"
+- "uk"
+- "United Kingdom"
+- "building"
+---
+The old exchange building on New Bridge Street has been derelict for years, yet it's not yet been turned into something new. April Challenge #5 - <a href="/photos/2008/04/05/bt-exchange"></a>

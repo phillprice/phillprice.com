@@ -1,0 +1,25 @@
+---
+title: "A Royal Hall"
+date: "2007-11-25 23:51:00"
+privacy: "public"
+image: "photo/a-royal-hall/a-royal-hall.jpg"
+views: "46"
+faves: "0"
+lat: "51500087"
+lng: "-177304"
+tags:
+- "albert"
+- "alberthall"
+- "concert"
+- "england"
+- "hall"
+- "kensington"
+- "london"
+- "night"
+- "royal"
+- "royalalbert"
+- "royalhall"
+- "rpo"
+- "uk"
+---
+Beatifully lit, the Alber Hall shines in Albertopolis

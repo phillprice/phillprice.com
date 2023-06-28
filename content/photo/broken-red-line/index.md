@@ -1,0 +1,25 @@
+---
+title: "broken red line"
+date: "2009-08-01 15:28:54"
+privacy: "public"
+image: "photo/broken-red-line/broken-red-line.jpg"
+views: "81"
+faves: "1"
+lat: "47515171"
+lng: "19044198"
+tags:
+- "budapest"
+- "car"
+- "park"
+- "column"
+- "concrete"
+- "geometry"
+- "hungary"
+- "line"
+- "minimalist"
+- "parking"
+- "red"
+- "underground"
+- "car park"
+---
+<a href="/photos/2009/08/01/broken-red-line" rel="nofollow"></a>

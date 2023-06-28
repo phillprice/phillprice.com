@@ -1,0 +1,26 @@
+---
+title: "Life goes by too fast"
+date: "2009-05-22 16:01:49"
+privacy: "public"
+image: "photo/life-goes-by-too-fast/life-goes-by-too-fast.jpg"
+views: "134"
+faves: "3"
+tags:
+- "via-pixelpipe"
+- "blur"
+- "car"
+- "driving"
+- "england"
+- "fast"
+- "light"
+- "trail"
+- "lights"
+- "m1"
+- "motorway"
+- "night"
+- "speed"
+- "suffolk"
+- "uk"
+- "light trail"
+---
+This photo perfectly represents my state of mind at the moment. Currently I'm mid through editing <a href="http://www.photolegal.com">photoLegal</a> Episode #3 and my brain is racing on caffeine. Wish me luck! - <a href="/photos/2009/05/23/life-goes-by-too-fast"></a>

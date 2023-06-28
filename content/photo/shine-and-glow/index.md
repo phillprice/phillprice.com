@@ -1,0 +1,25 @@
+---
+title: "Shine and glow"
+date: "2008-09-24 15:45:23"
+privacy: "public"
+image: "photo/shine-and-glow/shine-and-glow.jpg"
+views: "47"
+faves: "0"
+lat: "51493920"
+lng: "-226897"
+tags:
+- "black"
+- "building"
+- "contrast"
+- "england"
+- "glass"
+- "glow"
+- "green"
+- "hammersmith"
+- "london"
+- "reflect"
+- "shine"
+- "uk"
+- "w6"
+---
+A tree next to the former Universal Records building on Glenthorne Road in Hammersmith. - <a href="/photos/2008/09/24/shine-and-glow"></a>

@@ -1,0 +1,26 @@
+---
+title: "Beautifully vivid"
+date: "2009-01-06 13:54:30"
+privacy: "public"
+image: "photo/beautifully-vivid/beautifully-vivid.jpg"
+views: "165"
+faves: "5"
+lat: "51491591"
+lng: "-304656"
+tags:
+- "via-pixelpipe"
+- "Chrysolophus"
+- "pictus"
+- "england"
+- "fauna"
+- "gardens"
+- "golden"
+- "pheasant"
+- "kew"
+- "richmond"
+- "uk"
+- "Chrysolophus pictus"
+- "golden pheasant"
+- "kew gardens"
+---
+<a href="/photos/2009/01/06/beautifully-vivid"></a>

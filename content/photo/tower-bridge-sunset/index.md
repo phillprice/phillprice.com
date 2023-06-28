@@ -1,0 +1,27 @@
+---
+title: "Tower Bridge Sunset"
+date: "2009-08-19 12:53:59"
+privacy: "public"
+image: "photo/tower-bridge-sunset/tower-bridge-sunset.jpg"
+views: "142"
+faves: "6"
+lat: "51505684"
+lng: "-74028"
+tags:
+- "april"
+- "bridge"
+- "city"
+- "cloud"
+- "england"
+- "london"
+- "river"
+- "thames"
+- "sillhouette"
+- "sunset"
+- "tower"
+- "uk"
+- "river thames"
+- "tower bridge"
+- "United Kingdom"
+---
+<a href="/photos/2009/08/19/tower-bridge-sunset" rel="nofollow"></a>

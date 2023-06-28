@@ -1,0 +1,27 @@
+---
+title: "Locked Away"
+date: "2008-12-19 15:38:08"
+privacy: "public"
+image: "photo/locked-away/locked-away.jpg"
+views: "59"
+faves: "4"
+lat: "51480804"
+lng: "-167628"
+tags:
+- "via-pixelpipe"
+- "england"
+- "hammersmithbridgetobatterseabridge"
+- "london"
+- "londonflickrmeetups"
+- "londonphotowalk"
+- "londonphotowalk083008"
+- "londonphotowalk300808"
+- "Photowalk:London=20080830"
+- "photowalking:london300808"
+- "photowalking083008"
+- "photowalking300808"
+- "uk"
+- "upcoming:event=927251"
+- "United Kingdom"
+---
+<a href="/photos/2008/12/19/locked-away"></a>

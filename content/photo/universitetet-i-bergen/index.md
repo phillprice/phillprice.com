@@ -1,0 +1,25 @@
+---
+title: "Universitetet i Bergen"
+date: "2009-07-11 17:50:23"
+privacy: "public"
+image: "photo/universitetet-i-bergen/universitetet-i-bergen.jpg"
+views: "116"
+faves: "0"
+lat: "60388097"
+lng: "5321953"
+tags:
+- "architecture"
+- "bergen"
+- "building"
+- "deep"
+- "Muséplassen"
+- "museum"
+- "norway"
+- "nothdr"
+- "sky"
+- "strong"
+- "Universitetet"
+- "university"
+- "Mus?plassen"
+---
+Muséplassen 3 is a gorgeous rich yellow colour; and hold the Natural history section of the Bergen Museum part of the university. - <a href="/photos/2009/07/11/universitetet-i-bergen" rel="nofollow"></a>

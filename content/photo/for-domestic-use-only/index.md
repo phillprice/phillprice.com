@@ -1,0 +1,25 @@
+---
+title: "For domestic use only ¡¡¡"
+date: "2008-04-13 00:51:39"
+privacy: "public"
+image: "photo/for-domestic-use-only/for-domestic-use-only.jpg"
+views: "23"
+faves: "0"
+lat: "51494122"
+lng: "-255099"
+tags:
+- "aprilchallenge"
+- "bin"
+- "chiswick"
+- "england"
+- "entropy"
+- "london"
+- "photochallenge"
+- "rubbish"
+- "sunset"
+- "trash"
+- "typography"
+- "uk"
+- "United Kingdom"
+---
+another double whammy, a bin itself, and it's sign is wearing away (along with it's wheel...) Do i get extra points for the ¡¡¡ though? April Challenge #13 - <a href="/photos/2008/04/13/for-domestice-use-only" rel="nofollow"></a>

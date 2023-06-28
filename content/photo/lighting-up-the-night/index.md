@@ -1,0 +1,26 @@
+---
+title: "Lighting up the night"
+date: "2007-11-25 23:49:45"
+privacy: "public"
+image: "photo/lighting-up-the-night/lighting-up-the-night.jpg"
+views: "21"
+faves: "0"
+lat: "51499860"
+lng: "-175588"
+tags:
+- "college"
+- "england"
+- "ic"
+- "imperial"
+- "imperialcollege"
+- "iron"
+- "kensington"
+- "lamp"
+- "light"
+- "london"
+- "night"
+- "stone"
+- "uk"
+- "wall"
+---
+Imperial College is well lit by a pair of these on Prince Consort road
