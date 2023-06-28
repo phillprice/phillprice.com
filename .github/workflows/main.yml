@@ -14,7 +14,7 @@ jobs:
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-          lfs: true
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -24,4 +24,11 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        run: echo TODO
+        uses: appleboy/scp-action@master
+        with:
+          rm: 'true'
+          source: 'public/*'
+          target: '/home/opc/www'
+          host: ${{ secrets.HOST }}
+          key: ${{ secrets.PRIVATE_KEY }}
+          username: ${{ secrets.USERNAME }}
