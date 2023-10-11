@@ -5601,7 +5601,9 @@ h6 {
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0; }
+    bottom: 0; 
+    }
+    a.link-overlay {color: transparent;}
   .portfolio-box-01 img {
     -moz-transform: scale(1);
     -o-transform: scale(1);

@@ -5,7 +5,7 @@
                 {{ with .Resources.ByType "image" }}
                     {{ range first 1 . }}
                         {{ $scaled := .Resize "x350 q90" }}
-                        <img src="{{ $scaled.Permalink }}" title="" alt="">
+                        <img src="{{ $scaled.Permalink }}" title="" alt="{{.Title}}">
                     {{ end }}
                 {{ end }}
             </a>

@@ -4,7 +4,7 @@
             <a href="{{ .Permalink }}">
                 {{ with .Resources.ByType "image" }}
                     {{ range first 1 . }}
-                        <img src="{{ .Permalink }}" class="exp-icon" style="max-height:80px;max-width:80%;" title="" alt="">
+                        <img src="{{ .Permalink }}" class="exp-icon" style="max-height:80px;max-width:80%;" title="" alt="{{.Title}}">
                     {{ end }}
                 {{ end }}
             </a>

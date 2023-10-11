@@ -30,7 +30,7 @@
                     <div class="img"
                         style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
                         <svg width="{{ $img.Width }}" height="{{ $img.Height }}" aria-hidden="true"></svg>
-                        <img class="lazyload" data-sizes="auto" data-srcset='
+                        <img class="lazyload" alt="Image of Me" data-sizes="auto" data-srcset='
                         {{ if ge .Width "500" }}
                         {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
                         {{ end }}
@@ -45,7 +45,7 @@
                         {{ end }}' data-src="{{ .RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}"
                             >
                         <noscript>
-                            <img loading="lazy"  srcset='
+                            <img loading="lazy" alt="Image of Me" srcset='
                         {{ if ge .Width "500" }}
                             {{ with $tiny.RelPermalink }}{{.}} 500w{{ end }}
                         {{ end }}
