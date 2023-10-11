@@ -39,3 +39,4 @@ imaging:
   hint: photo
   quality: 95
   resampleFilter: Lanczos
+timeout: "300s"
