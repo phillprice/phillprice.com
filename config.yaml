@@ -13,6 +13,9 @@ params:
     - name: linkedin-in
       url: 'http://linkedin.com/in/phillprice'
       label: Linkedin
+    - name: bluesky
+      url: 'https://bsky.app/profile/phillprice.com'
+      label: Bluesky
   typeit_strings:
     - Cyclist
     - Lead Software Engineer
