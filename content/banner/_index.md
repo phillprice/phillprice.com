@@ -5,7 +5,7 @@ buttons:
      text: my work
      color: red
    - text: Blog
-     link: "/posts"
+     link: "/post"
      color: white
 adjectives:
  - Cyclist
